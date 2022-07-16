@@ -1,0 +1,18 @@
+.toplink-box {
+    width: 100vw;
+    height: 100px;
+}
+
+.empty {
+    width: 80vw;
+    height: 125px;
+}
+
+.video-box {
+    min-height: 40vw;
+    max-height: 50vw;
+}
+
+.video-port video {
+    max-height: 100vh;
+}

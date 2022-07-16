@@ -1,0 +1,140 @@
+/* ==== PRINT ==== */
+    #gal-lrth {
+        background-image: url(../images/cs_lrth-tin.jpg);
+        background-position: center;
+    }
+
+    #gal-nccr {
+        background-image: url(../images/cs_nccr-banner.jpg);
+        background-position: left;
+    }
+
+    #gal-snkz {
+        background-image: url(../images/cs_snkz-banner.jpg);
+        background-position: right bottom;
+    }
+
+    #gal-fvc {
+        background-image: url(../images/cs_fvc-banner.jpg);
+        background-position: left top;
+    }
+
+/* ==== WEB MARKETING ==== */
+    #gal-origins {
+        background-image: url(../images/cs_mb-origins-banner.jpg);
+    }
+
+    #gal-extralife {
+        background-image: url(../images/cs_mb-extralife-banner.jpg);
+        background-position: center bottom;
+    }
+
+    #gal-bm-1 {
+        background-image: url(../images/cs_bm-post-library.jpg);
+        background-position: center;
+    }
+
+    #gal-bm-2 {
+        background-image: url(../images/cs_bm-post-hall.jpg);
+        background-position: center;
+    }
+
+    #gal-bm-3 {
+        background-image: url(../images/cs_bm-post-field.jpg);
+        background-position: center;
+    }
+
+    #gal-ltc {
+        background-image: url(../images/cs_ltc-post.png);
+        background-position: top;
+    }
+
+    #gal-ytp-1 {
+        background-image: url(../images/cs_youthe-post-halloween.png);
+        background-position: bottom;
+    }
+
+    #gal-ytp-2 {
+        background-image: url(../images/cs_youthe-skin-2.jpg);
+        background-position: center;
+    }
+
+    #gal-ytp-3 {
+        background-image: url(../images/cs_youthe-fb-mockup.jpg);
+    }
+
+/* ==== BRANDING ==== */
+    #gal-cmp {
+        background-image: url(../images/cs_cmp-banner.jpg);
+    }
+
+    #gal-pmsg {
+        background-image: url(../images/cs_pmsg-banner.jpg);
+        background-position: right;
+    }
+
+/* ==== MISC ==== */
+    #gal-portrait {
+        background-image: url(../images/cs_portrait-banner.jpg);
+        background-position: center;
+    }
+
+    #gal-ace {
+        background-image: url(../images/cs_ace-banner.jpg);
+        background-position: center;
+    }
+    
+    #gal-interest {
+        background-image: url(../images/cs_interest-banner.jpg);
+        background-position: bottom center;
+    }
+
+    #gal-aurie {
+        background-image: url(../images/cs_aurie-final.jpg);
+    }
+    
+    /* #gal-ww-icons {
+        background-image: url(../images/cs_PMSG_logos_set3.jpg);
+    } */
+    
+    #gal-mtebibl {
+        background-image: url(../images/cs_mtebibl-map.png);
+        background-position: center;
+        background-size: 155%;
+    }
+
+    #gal-shift {
+        background-image: url(../images/cs_shift-banner.jpg);
+        background-position: right;
+    }
+
+    #gal-bigd {
+        background-image: url(../images/cs_bigd-jersey.jpg);
+        background-position: center;
+    }
+
+/* ==== MOTION GRAPHICS ==== */
+    #gal-bmv-1 {
+        background-image: url(../images/cs_bm-teaser-ss.png);
+        background-position: center;
+    }
+
+    #gal-bmv-2 {
+        background-image: url(../images/cs_bm-story-ss.jpg);
+        background-position: center;
+    }
+
+    #gal-ww-1 {
+        background-image: url(../images/cs_ww-bridge-ss.png);
+        background-position: right bottom;
+    }
+
+    #gal-ww-2 {
+        background-image: url(../images/cs_ww-loading-ss.png);
+        background-position: center;
+    }
+
+    #gal-ww-3 {
+        background-image: url(../images/cs_ww-numbers-ss.png);
+        background-position: right;
+    }
