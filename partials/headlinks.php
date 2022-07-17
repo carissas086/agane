@@ -3,11 +3,11 @@
 <link href="../styles/lightbox.min.css" rel="stylesheet" />
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
 
-<link rel="stylesheet" href="/styles/reset.css" class="style-reset">
+<link rel="stylesheet" href="styles/reset.css" class="style-reset">
 
-<link rel="stylesheet" href="/styles/gallery.css">
-<link rel="stylesheet" href="/styles/overhaul.css">
-<link rel="stylesheet" href="/styles/main.css" class="style-main">
+<link rel="stylesheet" href="styles/gallery.css">
+<link rel="stylesheet" href="styles/overhaul.css">
+<link rel="stylesheet" href="styles/main.css" class="style-main">
 
 <link rel="apple-touch-icon-precomposed" sizes="57x57" href="../images/favicons/apple-touch-icon-57x57.png">
 <link rel="apple-touch-icon-precomposed" sizes="114x114" href="../images/favicons/apple-touch-icon-114x114.png">
