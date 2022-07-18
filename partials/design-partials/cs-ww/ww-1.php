@@ -2,7 +2,7 @@
 <h2 class="head-font arti-head">"Mother's Day Behind The Scenes" &mdash; Bridge</h2>
 <div class="content-arti-clean flex flex-around flex-end video-box">
     <video controls volume="">
-        <source src="/../images/cs_ww-bridge.mp4" type="video/mp4">
+        <source src="../images/cs_ww-bridge.mp4" type="video/mp4">
         Your browser does not support the video tag :(
     </video>
 </div>
