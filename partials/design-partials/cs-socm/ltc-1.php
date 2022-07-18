@@ -9,6 +9,6 @@
         </a>
     </div>
     <div class="content-arti-copy">
-        <p>The concept for this post surrounded having 4 characters from the novel be isolated from one another, despite how intertwined their lives were. Having recieved the 4 character artworks from freelance artist <a class="art-link" href="https://www.deviantart.com/tofu-jiggles" target="_blank">Natasha Lee</a>, I had them placed on a black background with a subtle, smoky glow. The novel title was then palced over the bottom.</p>
+        <p>The concept for this post surrounded having 4 characters from the novel be isolated from one another, despite how intertwined their lives were. Having recieved the 4 character artworks from freelance artist <a class="art-link" href="https://www.deviantart.com/tofu-jiggles" target="_blank">Natasha Lee</a>, I had them placed on a black background with a subtle, smoky glow. The novel title was then placed over the bottom.</p>
     </div>
 </div>

@@ -22,7 +22,7 @@
         </a>
     </div>
     <div class="content-arti-copy">
-        <p>For the square and tall banners, I went with the image of one of the gym's coaches performing a precision jump. I chose this image because with the limited horizontal space, it was difficult to make the gym's sprawling nature work for the layout, and with that same slope shape theme, it would appear as those the cooach was flying over a structure. As this is what a lot of parkour tends to feel like, I thought this an appropriate feel for the banners.</p>
+        <p>For the square and tall banners, I went with the image of one of the gym's coaches performing a precision jump. I chose this image because with the limited horizontal space, it was difficult to make the gym's sprawling nature work for the layout, and with that same slope shape theme, it would appear as those the coach was flying over a structure. As this is what a lot of parkour tends to feel like, I thought this an appropriate feel for the banners.</p>
         <p>To keep the banner package consistent, I opted to include the slogan on these as well. However, instead of having the slogan as a string on text, I overlayed it over the image to give the image a hint of a motion graphics feel. I also opted to use the gym's work-marked logo instead of the round black seal as it offered better balance to the purple shapes.</p>
     </div>
 </div>

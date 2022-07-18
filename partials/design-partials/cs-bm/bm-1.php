@@ -19,6 +19,6 @@
     </div>
     <div class="content-arti-copy">
         <p>With this first post, I chose a corner of the library scene that featured the broken, battered nature of the abandoned mansion. I overlaid this with the frame drawn by the artist in order to maintain consistency with the project itself.</p>
-        <p>After that, I applied a simple level adjustment overlay, and masked out the middle to create a subtle light beam effect. This would draw the eye to the broken glass pains in the scene.</p>
+        <p>After that, I applied a simple level adjustment overlay, and masked out the middle to create a subtle light beam effect. This would draw the eye to the broken glass panes in the scene.</p>
     </div>
 </div>
