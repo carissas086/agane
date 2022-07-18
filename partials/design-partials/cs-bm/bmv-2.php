@@ -3,7 +3,7 @@
 <div class="content-arti-clean flex flex-around flex-end flip video-box">
     <div class="content-arti-copy video-port">
         <video controls muted autoplay loop>
-            <source src="/../images/cs_bm-story.mp4" type="video/mp4">
+            <source src="../images/cs_bm-story.mp4" type="video/mp4">
             Your browser does not support the video tag :(
         </video>
     </div>
