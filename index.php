@@ -12,9 +12,9 @@
     <header>
         <nav class="gn flex flex-around flex-vertcen">
             <ul class="flex flex-around flex-vertcen">
-                <li><a href="#about">About</a></li>
+                <li class="mob-head"><a href="#about">About</a></li>
                 <li class="logo"><a href="index.php"><img src="images/logos/logo-wveccol_mid.png" alt="carissas brand logo"></a></li>
-                <li><a href="#gallery">Projects</a></li>
+                <li class="mob-head"><a href="#gallery">Projects</a></li>
             </ul>
         </nav>
     </header>
@@ -42,12 +42,12 @@
                 <h2 class="head-font">About Me</h2>
             </div>
             <div class="content-arti-clean flex flip">
-                <div class="content-arti-final">
+                <div class="head-shot">
                     <img src="images/carissaso.jpg" alt="">
                 </div>
                 <div class="content-arti-copy">
                     <p>Being in continual pursuit of a curiosity in all the possibilities in media and art, my passion for precision and excellence permeates all my projects, both professional and personal.</p>
-                    <p>Technical skills:</p>
+                    <p class="about-subhead">Technical skills:</p>
                     <ul class="li-indent bullets">
                         <li>proficient in the Adobe Creative Suite, specifically</li>
                             <li class="bullet-sub">Photoshop</li>
@@ -58,7 +58,7 @@
                         <li>Ableton Live</li>
                         <li>basic HTML and CSS</li>
                     </ul>
-                    <p>Past (and current) interests and projects:</p>
+                    <p class="about-subhead">Past (and current) interests and projects:</p>
                     <ul class="li-indent bullets">
                         <li>Electric guitar, recreationally and at the collegiate level (jazz and contemporary program)</li>
                         <li>Majored in Linguistics, Bachelor of Arts from Simon Fraser University</li>

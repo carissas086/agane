@@ -16,3 +16,27 @@
 .video-port video {
     max-height: 100vh;
 }
+
+    @media (max-width: 769px){
+        .video-box {
+            max-height: none;
+        }
+        .video-port video {
+            max-height: 75vh;
+        }
+    }
+
+.about-subhead {
+    font-family: bc-alphapipe, sans-serif;
+    font-weight: 700;
+    letter-spacing: 1px;
+    margin-top: 1.25rem;
+    line-height: .65;
+}
+
+.head-shot {
+    width: 30vw;
+    min-width: 275px;
+    padding: 1vh 2vw;
+    margin: 0 auto;
+}

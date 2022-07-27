@@ -1,7 +1,8 @@
-<div class="container gal-project">
-    <h3>Creative Projects</h3>
-    <p class="gal-sub">Illustration, Vector, Interface Animation, and Creative Photography Projects</p>
-    <!-- <p><span class="italic">Only first project page is functional at the moment for QA Assignment 2</span></p> -->
+<div class="container-fluid gal-project">
+    <div class="row">
+        <h3 class=" col-12">Creative Projects</h3>
+        <p class="gal-sub col-12">Illustration, Vector, Interface Animation, and Creative Photography Projects</p>
+    </div>
     <div class="gal flex flex-vertcen row">
         <a class="gal-link col-12 col-md-3" href="design/portrait.php#misc-1">
             <p class="head-font gal-hov">"Portrait" &mdash; Composite Photograph</p>
@@ -37,8 +38,6 @@
             <p class="head-font gal-hov">"Aurie" &mdash; Vector Character</p>
             <div class="gal-img" id="gal-aurie"></div>
         </a> -->
-    </div>
-    <div class="gal flex flex-vertcen row">
         <!-- <a class="gal-link col-12 col-md-3" href="/design/wwicons.php#misc-9">
             <p class="head-font gal-hov">Worship Workshop &mdash; Watermark Icons</p>
             <div class="gal-img" id="gal-ww-icons"></div>

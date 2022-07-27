@@ -6,7 +6,7 @@
         <h2 class="head-font arti-head">The Compository</h2>
         <div class="content-arti-clean flex">
             <div class="content-arti-copy">
-                <p>"The Compository" is a fictionary creative photography studio created for a print layout design class in 2021 during my time at BCIT's New Media Design Program. The name ‘The Compository’ compounds ‘<span class="bold">composite</span>’, as in composite photography, and ‘<span class="bold">repository</span>’, as in something that contains or stores other things.</p>
+                <p>"The Compository" is a fictionary creative photography studio created for a print layout design class during my time at BCIT's New Media Design Program. The name ‘The Compository’ compounds ‘<span class="bold">composite</span>’, as in composite photography, and ‘<span class="bold">repository</span>’, as in something that contains or stores other things.</p>
                 <p>This conceptual company was created to showcase my ability to:</p>
                     <ol class="li-indent">
                         <li><span class="bold">represent abstract ideas</span> in digestible graphics, and</li>

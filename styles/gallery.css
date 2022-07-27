@@ -31,32 +31,50 @@
 
     #gal-bm-1 {
         background-image: url(../images/cs_bm-post-library.jpg);
+        background-color: #0f0f0f;
         background-position: center;
+        background-size: contain;
+        background-repeat: no-repeat;
     }
 
     #gal-bm-2 {
         background-image: url(../images/cs_bm-post-hall.jpg);
+        background-color: #0f0f0f;
         background-position: center;
+        background-size: contain;
+        background-repeat: no-repeat;
     }
 
     #gal-bm-3 {
         background-image: url(../images/cs_bm-post-field.jpg);
+        background-color: #0f0f0f;
         background-position: center;
+        background-size: contain;
+        background-repeat: no-repeat;
     }
 
     #gal-ltc {
         background-image: url(../images/cs_ltc-post.png);
+        background-color: #0f0f0f;
         background-position: top;
+        background-size: contain;
+        background-repeat: no-repeat;
     }
 
     #gal-ytp-1 {
         background-image: url(../images/cs_youthe-post-halloween.png);
+        background-color: #0f0f0f;
         background-position: bottom;
+        background-size: contain;
+        background-repeat: no-repeat;
     }
 
     #gal-ytp-2 {
         background-image: url(../images/cs_youthe-skin-2.jpg);
+        background-color: #0f0f0f;
         background-position: center;
+        background-size: contain;
+        background-repeat: no-repeat;
     }
 
     #gal-ytp-3 {
@@ -91,6 +109,10 @@
 
     #gal-aurie {
         background-image: url(../images/cs_aurie-final.jpg);
+        background-color: #0f0f0f;
+        background-position: center;
+        background-size: contain;
+        background-repeat: no-repeat;
     }
     
     /* #gal-ww-icons {

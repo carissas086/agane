@@ -14,7 +14,7 @@
     </div>
 </div>
 <div class="content-arti-clean flex flip flex-end">
-    <div class="content-arti-final framed flex">
+    <div class="content-arti-final framed flex mb-small">
         <a href="../images/cs_mb-origins-300.jpg"
             data-lightbox="origins"
             data-title="300px tall banner for Origins Parkour." >
