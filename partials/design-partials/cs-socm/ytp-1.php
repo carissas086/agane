@@ -1,4 +1,4 @@
-<div class="empty"></div>
+
 <h2 class="head-font arti-head">Halloween Instagram Posts</h2>
 <div class="content-arti-clean">
     <div class="content-arti-final framed flex flex-around flex-end">

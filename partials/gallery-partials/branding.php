@@ -1,4 +1,4 @@
-<div class="container-fluid gal-project">
+<div class="container-fluid gal-project empty-scroll" id="gal-branding">
     <div class="row">
         <h3 class=" col-12">Corporate Branding</h3>
         <p class="gal-sub col-12">Logo and Business Asset Design Projects</p>

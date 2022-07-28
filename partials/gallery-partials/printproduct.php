@@ -1,4 +1,4 @@
-<div class="container-fluid gal-project">
+<div class="container-fluid gal-project empty-scroll" id="gal-print">
     <div class="row">
         <h3 class=" col-12">Print Layout &amp; Packaging</h3>
         <p class="gal-sub col-12">Product Packaging and Print Poster Projects</p>

@@ -15,7 +15,7 @@
         <div class="head-font tab"><a href="#snkz-top">TOP</a></div>
         <div class="toplink-box" id="snkz-top"></div>
 
-        <!-- ==== CONTENT BOX ==== -->
+        <!-- ==== CONTENT HEADER ==== -->
         <main class="content-box">
             <div class="content-blurb">
                 <div class="content-blurb-head flex flex-end flex-bet">
@@ -34,11 +34,14 @@
 
             <!-- ==== CONTENT IN PARTIALS ==== -->
             <div class="content-arti-lock">
-                <div class="content-arti-section" id="snkz-1">
+                <div class="content-arti-section empty-scroll" id="snkz-1">
                     <?php include __DIR__ . '/../partials/design-partials/cs-print/snkz.php'; ?>
                 </div>
             </div>
             <?php include __DIR__ . '/../partials/design-partials/cs-print/snkz-add.php'; ?>
+
+            <!-- ==== BACK TO ==== -->
+            <?php include __DIR__ . '/../partials/design-backs/print-back.php'; ?>
         
         <!-- ==== FOOTER ==== -->
         <?php include __DIR__ . '/../partials/design-footer.php'; ?>

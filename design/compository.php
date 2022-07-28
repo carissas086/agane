@@ -15,7 +15,7 @@
         <div class="head-font tab"><a href="#cmp-top">TOP</a></div>
         <div class="toplink-box" id="cmp-top"></div>
 
-        <!-- ==== CONTENT BOX ==== -->
+        <!-- ==== CONTENT HEADER ==== -->
         <main class="content-box">
             <div class="content-blurb">
                 <div class="content-blurb-head flex flex-end flex-bet">
@@ -34,18 +34,21 @@
 
             <!-- ==== CONTENT IN PARTIALS ==== -->
             <div class="content-arti-lock">
-                <div class="content-arti-section" id="cmp-1">
+                <div class="content-arti-section empty-scroll" id="cmp-1">
                     <?php include __DIR__ . '/../partials/design-partials/cs-cmp/cmp-1.php'; ?>
                 </div>
-                <div class="content-arti-section" id="cmp-1">
+                <div class="content-arti-section empty-scroll" id="cmp-1">
                     <?php include __DIR__ . '/../partials/design-partials/cs-cmp/cmp-2.php'; ?>
                 </div>
                 </div>
-                <div class="content-arti-section" id="cmp-1">
+                <div class="content-arti-section empty-scroll" id="cmp-1">
                     <?php include __DIR__ . '/../partials/design-partials/cs-cmp/cmp-3.php'; ?>
                 </div>
             </div>
             <?php include __DIR__ . '/../partials/design-partials/cs-cmp/cmp-add.php'; ?>
+
+            <!-- ==== BACK TO ==== -->
+            <?php include __DIR__ . '/../partials/design-backs/branding-back.php'; ?>
         
         <!-- ==== FOOTER ==== -->
         <?php include __DIR__ . '/../partials/design-footer.php'; ?>

@@ -1,4 +1,4 @@
-<div class="container-fluid gal-project">
+<div class="container-fluid gal-project empty-scroll" id="gal-mogr">
     <div class="row">
         <h3 class=" col-12">Motion Graphics Projects</h3>
         <p class="gal-sub col-12">Teaser Videos &amp; Educational Animations</p>

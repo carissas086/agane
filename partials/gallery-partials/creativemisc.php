@@ -1,4 +1,4 @@
-<div class="container-fluid gal-project">
+<div class="container-fluid gal-project empty-scroll" id="gal-misc">
     <div class="row">
         <h3 class=" col-12">Creative Projects</h3>
         <p class="gal-sub col-12">Illustration, Vector, Interface Animation, and Creative Photography Projects</p>

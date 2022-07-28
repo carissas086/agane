@@ -1,9 +1,9 @@
-<div class="empty"></div>
-<h2 class="head-font arti-head">"Big Dumplings" Jersey Design</h2>
+
+<h2 class="head-font arti-head">Project Mockup &mdash; Text Scroll Animation</h2>
 <div class="content-arti-clean flex flex-around flex-end">
     <div class="content-arti-final framed">
         <a href="../images/cs_bm-title.jpg"
-            data-lightbox="misc-8"
+            data-lightbox="misc-6"
             data-title="this is the caption" >
                 <img src="../images/cs_bm-title.jpg">
         </a>
@@ -27,7 +27,7 @@
 <div class="content-arti-clean flex flip">
     <div class="content-arti-final framed">
         <a href="../images/cs_bm-hall.jpg"
-            data-lightbox="misc-8"
+            data-lightbox="misc-6"
             data-title="this is the caption" >
                 <img src="../images/cs_bm-hall.jpg">
         </a>

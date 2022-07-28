@@ -12,9 +12,9 @@
     <header>
         <nav class="gn flex flex-around flex-vertcen">
             <ul class="flex flex-around flex-vertcen">
-                <li class="mob-head"><a href="#about">About</a></li>
-                <li class="logo"><a href="index.php"><img src="images/logos/logo-wveccol_mid.png" alt="carissas brand logo"></a></li>
                 <li class="mob-head"><a href="#gallery">Projects</a></li>
+                <li class="logo"><a href="index.php"><img src="images/logos/logo-wveccol_mid.png" alt="carissas brand logo"></a></li>
+                <li class="mob-head"><a href="#about">About</a></li>
             </ul>
         </nav>
     </header>
@@ -22,12 +22,12 @@
         <div class="toplink-box"></div>
         <section class="content-box flex flex-vertcen flex-vert head-font" id="landing">
             <img src="images/logos/logo-veccol_mid.png" alt="">
-            <h1 id="gallery">carissas</h1>
+            <h1>carissas</h1>
             <h2>creativity through design</h2>
         </section>
 
         <!-- ==== GALLERY ==== -->
-        <section class="landing-gal head-font">
+        <section class="landing-gal head-font empty-scroll" id="gallery">
             <h2 class="head-font">My Work</h2>
             <?php include __DIR__ . '/partials/gallery-partials/printproduct.php'; ?>
             <?php include __DIR__ . '/partials/gallery-partials/webmarketing.php'; ?>

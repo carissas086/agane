@@ -64,7 +64,7 @@
     #gal-ytp-1 {
         background-image: url(../images/cs_youthe-post-halloween.png);
         background-color: #0f0f0f;
-        background-position: bottom;
+        background-position: center;
         background-size: contain;
         background-repeat: no-repeat;
     }
@@ -79,6 +79,7 @@
 
     #gal-ytp-3 {
         background-image: url(../images/cs_youthe-fb-mockup.jpg);
+        background-size: cover;
     }
 
 /* ==== BRANDING ==== */
@@ -123,6 +124,7 @@
         background-image: url(../images/cs_mtebibl-map.png);
         background-position: center;
         background-size: 155%;
+        background-color: #0f0f0f;
     }
 
     #gal-shift {

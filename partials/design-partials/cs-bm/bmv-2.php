@@ -1,4 +1,4 @@
-<div class="empty"></div>
+
 <h2 class="head-font arti-head">Instagram Story</h2>
 <div class="content-arti-clean flex flex-around flex-end flip video-box">
     <div class="content-arti-copy video-port">

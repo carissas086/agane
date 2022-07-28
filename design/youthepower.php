@@ -15,7 +15,7 @@
         <div class="head-font tab"><a href="#ytp-top">TOP</a></div>
         <div class="toplink-box" id="ytp-top"></div>
 
-        <!-- ==== CONTENT BOX ==== -->
+        <!-- ==== CONTENT HEADER ==== -->
         <main class="content-box">
             <div class="content-blurb">
                 <div class="content-blurb-head flex flex-end flex-bet">
@@ -28,18 +28,20 @@
 
             <!-- ==== CONTENT IN PARTIALS ==== -->
             <div class="content-arti-lock">
-                <div class="content-arti-section" id="ytp-1">
+                <div class="content-arti-section empty-scroll" id="ytp-1">
                     <?php include __DIR__ . '/../partials/design-partials/cs-socm/ytp-1.php'; ?>
                 </div>
-                <div class="content-arti-section" id="ytp-2">
+                <div class="content-arti-section empty-scroll" id="ytp-2">
                     <?php include __DIR__ . '/../partials/design-partials/cs-socm/ytp-2.php'; ?>
                 </div>
-                </div>
-                <div class="content-arti-section" id="ytp-3">
+                <div class="content-arti-section empty-scroll" id="ytp-3">
                     <?php include __DIR__ . '/../partials/design-partials/cs-socm/ytp-3.php'; ?>
                 </div>
             </div>
             <?php include __DIR__ . '/../partials/design-partials/cs-socm/ytp-add.php'; ?>
+
+            <!-- ==== BACK TO ==== -->
+            <?php include __DIR__ . '/../partials/design-backs/web-back.php'; ?>
         
         <!-- ==== FOOTER ==== -->
         <?php include __DIR__ . '/../partials/design-footer.php'; ?>

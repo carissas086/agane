@@ -1,4 +1,4 @@
-<div class="empty"></div>
+
 <h2 class="head-font arti-head">Business Card Design</h2>
 <div class="content-arti-clean flex flex-around flex-end">
     <div class="content-arti-final framed">

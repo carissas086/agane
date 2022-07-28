@@ -1,4 +1,4 @@
-<div class="empty"></div>
+
 <h2 class="head-font arti-head">Motion Graphics Teaser</h2>
 <div class="content-arti-clean flex flex-around flex-end video-box">
     <video controls volume="">
