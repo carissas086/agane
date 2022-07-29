@@ -601,6 +601,8 @@
             height: 30vh;
             padding: 0;
             margin: 0;
+
+            z-index: 0;
         }
 
             @media (max-width: 769px){
@@ -667,10 +669,16 @@
                 background-color: #0f0f0f;
                 opacity: 0;
                 transition: all .25s .01s ease-in;
+
+                z-index: 5;
+            }
+
+            .gal-link:hover {
+                z-index: 3;
             }
 
             .gal-link:hover::after {
-                opacity: .75;
+                opacity: .65;
             }
 
             .gal-link:hover > .gal-hov {
@@ -681,4 +689,10 @@
             height: 100%;
             background-size: cover;
             padding: 0;
+
+            z-index: 3;
+        }
+
+        .gal-img:hover {
+            z-index: 3;
         }
