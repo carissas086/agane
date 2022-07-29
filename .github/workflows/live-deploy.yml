@@ -17,8 +17,8 @@ jobs:
         server: ftp.carissaso.ca
         username: cslive-admin@carissaso.ca
         password: ${{ secrets.ftp_password }}
-      exclude: |
-          **/.git*
-          **/.git*/**
-          **/node_modules/**
-          fileToExclude.txt
+        exclude: |
+            **/.git*
+            **/.git*/**
+            **/node_modules/**
+            fileToExclude.txt
