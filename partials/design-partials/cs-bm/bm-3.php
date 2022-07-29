@@ -2,7 +2,7 @@
 <h2 class="head-font arti-head">"Black Mansion" Field Scene</h2>
 <div class="content-arti-clean flex flex-end">
     <div class="content-arti-final framed">
-        <a href="../images/cs_ltc-post-field.jpg"
+        <a href="../images/cs_bm-post-field.jpg"
             data-lightbox="bm"
             data-title="3rd in the series of 3 Instagram posts designed for the Black Mansion campaign." >
                 <img src="../images/cs_bm-post-field.jpg" alt="Instagram post featuring the Field scene from Black Mansion">

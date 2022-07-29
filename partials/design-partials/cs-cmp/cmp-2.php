@@ -13,7 +13,7 @@
         <p>In order to serve the purpose of card and overcome the challenge of its size, I settled on a simpler design that leaned more on the branding colours.</p>
     </div>
 </div>
-<div class="content-arti-final framed flex flex-around mb-small">
+<div class="content-arti-final framed flex flex-around">
     <a href="../images/cs_cmp-cardfront-final.jpg"
         data-lightbox="cmp-2"
         data-title="The Compository business card front." >

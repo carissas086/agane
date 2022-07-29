@@ -62,7 +62,7 @@
             <p class="head-font gal-hov">"Shift" &mdash; Effects Pedal Vector Illustration</p>
             <div class="gal-img" id="gal-shift"></div>
         </a> -->
-        <a class="gal-link col-12 col-md-4" href="images/cs_bigd.png"
+        <a class="gal-link col-12 col-md-4" href="images/cs_bigd.jpg"
             data-lightbox="misc"
             data-title="Jersey design for a recreational ultimate team that I play on" >
             <p class="head-font gal-hov">Big Dumplings Jersey Design</p>

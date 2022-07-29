@@ -29,10 +29,10 @@
 </div>
 <div class="content-arti-clean flex flip flex-end">
     <div class="content-arti-final framed">
-        <a href="../images/cs_nccr-mock-clean.png"
+        <a href="../images/cs_nccr-mock-clean.jpg"
             data-lightbox="nccr"
             data-title="Exported 3D render of the 2 coffee bean packagings." >
-                <img src="../images/cs_nccr-mock-clean.png" alt="3d mockup of coffee bean packaging">
+                <img src="../images/cs_nccr-mock-clean.jpg" alt="3d mockup of coffee bean packaging">
         </a>
     </div>
     <div class="content-arti-copy">

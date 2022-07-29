@@ -31,7 +31,7 @@
 
     #gal-bm-1 {
         background-image: url(../images/cs_bm-post-library.jpg);
-        background-color: #0f0f0f;
+        background-color: #fff;
         background-position: center;
         background-size: contain;
         background-repeat: no-repeat;
@@ -39,7 +39,7 @@
 
     #gal-bm-2 {
         background-image: url(../images/cs_bm-post-hall.jpg);
-        background-color: #0f0f0f;
+        background-color: #fff;
         background-position: center;
         background-size: contain;
         background-repeat: no-repeat;
@@ -47,23 +47,23 @@
 
     #gal-bm-3 {
         background-image: url(../images/cs_bm-post-field.jpg);
-        background-color: #0f0f0f;
+        background-color: #fff;
         background-position: center;
         background-size: contain;
         background-repeat: no-repeat;
     }
 
     #gal-ltc {
-        background-image: url(../images/cs_ltc-post.png);
-        background-color: #0f0f0f;
+        background-image: url(../images/cs_ltc-post.jpg);
+        background-color: #fff;
         background-position: top;
-        background-size: contain;
+        background-size: cover;
         background-repeat: no-repeat;
     }
 
     #gal-ytp-1 {
         background-image: url(../images/cs_youthe-post-halloween.png);
-        background-color: #0f0f0f;
+        background-color: #fff;
         background-position: center;
         background-size: contain;
         background-repeat: no-repeat;
@@ -71,7 +71,7 @@
 
     #gal-ytp-2 {
         background-image: url(../images/cs_youthe-skin-2.jpg);
-        background-color: #0f0f0f;
+        background-color: #fff;
         background-position: center;
         background-size: contain;
         background-repeat: no-repeat;
@@ -110,7 +110,7 @@
 
     #gal-aurie {
         background-image: url(../images/cs_aurie-final.jpg);
-        background-color: #0f0f0f;
+        background-color: #fff;
         background-position: center;
         background-size: contain;
         background-repeat: no-repeat;
@@ -124,7 +124,7 @@
         background-image: url(../images/cs_mtebibl-map.png);
         background-position: center;
         background-size: 155%;
-        background-color: #0f0f0f;
+        background-color: #fff;
     }
 
     #gal-shift {
@@ -139,7 +139,7 @@
 
 /* ==== MOTION GRAPHICS ==== */
     #gal-bmv-1 {
-        background-image: url(../images/cs_bm-teaser-ss.png);
+        background-image: url(../images/cs_bm-teaser-ss.jpg);
         background-position: center;
     }
 
@@ -149,16 +149,16 @@
     }
 
     #gal-ww-1 {
-        background-image: url(../images/cs_ww-bridge-ss.png);
+        background-image: url(../images/cs_ww-bridge-ss.jpg);
         background-position: right bottom;
     }
 
     #gal-ww-2 {
-        background-image: url(../images/cs_ww-loading-ss.png);
+        background-image: url(../images/cs_ww-loading-ss.jpg);
         background-position: center;
     }
 
     #gal-ww-3 {
-        background-image: url(../images/cs_ww-numbers-ss.png);
+        background-image: url(../images/cs_ww-numbers-ss.jpg);
         background-position: right;
     }
