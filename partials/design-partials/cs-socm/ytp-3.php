@@ -14,10 +14,10 @@
 </div>
 <div class="content-arti-clean flex flip flex-end">
     <div class="content-arti-final framed">
-        <a href="../images/cs_youthe-paws.png"
+        <a href="../images/cs_youthe-paws.jpg"
             data-lightbox="ytp-3"
             data-title="This graphic was created for a fictional pet adoption event hosted by Youthe Power, posted to the organisation's Facebook page." >
-                <img src="../images/cs_youthe-paws.png" alt="Screenshot of Paws for Youthe event on Youthe Power's Facebook">
+                <img src="../images/cs_youthe-paws.jpg" alt="Screenshot of Paws for Youthe event on Youthe Power's Facebook">
         </a>
     </div>
     <div class="content-arti-copy">

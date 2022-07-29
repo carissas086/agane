@@ -54,7 +54,7 @@
     }
 
     #gal-ltc {
-        background-image: url(../images/cs_ltc-post.png);
+        background-image: url(../images/cs_ltc-post.jpg);
         background-color: #fff;
         background-position: top;
         background-size: cover;
@@ -139,7 +139,7 @@
 
 /* ==== MOTION GRAPHICS ==== */
     #gal-bmv-1 {
-        background-image: url(../images/cs_bm-teaser-ss.png);
+        background-image: url(../images/cs_bm-teaser-ss.jpg);
         background-position: center;
     }
 
@@ -149,16 +149,16 @@
     }
 
     #gal-ww-1 {
-        background-image: url(../images/cs_ww-bridge-ss.png);
+        background-image: url(../images/cs_ww-bridge-ss.jpg);
         background-position: right bottom;
     }
 
     #gal-ww-2 {
-        background-image: url(../images/cs_ww-loading-ss.png);
+        background-image: url(../images/cs_ww-loading-ss.jpg);
         background-position: center;
     }
 
     #gal-ww-3 {
-        background-image: url(../images/cs_ww-numbers-ss.png);
+        background-image: url(../images/cs_ww-numbers-ss.jpg);
         background-position: right;
     }

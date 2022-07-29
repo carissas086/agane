@@ -8,7 +8,7 @@
             <p class="head-font gal-hov">Origins Parkour Gym Marketing Banners</p>
             <div class="gal-img" id="gal-origins"></div>
         </a>
-        <a class="gal-link col-12 col-md-6" href="/design/marketingbanners.php#mb-2">
+        <a class="gal-link col-12 col-md-6" href="design/marketingbanners.php#mb-2">
             <p class="head-font gal-hov">Extra Life Marketing Banners</p>
             <div class="gal-img" id="gal-extralife"></div>
         </a>
