@@ -7,7 +7,7 @@
 
 <link rel="stylesheet" href="styles/gallery.css">
 <link rel="stylesheet" href="styles/overhaul.css">
-<link rel="stylesheet" href="styles/main.css" class="style-main">
+<link rel="stylesheet" href="styles/main.css">
 
 <link rel="apple-touch-icon-precomposed" sizes="57x57" href="images/favicons/apple-touch-icon-57x57.png">
 <link rel="apple-touch-icon-precomposed" sizes="114x114" href="images/favicons/apple-touch-icon-114x114.png">
