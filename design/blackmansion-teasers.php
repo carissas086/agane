@@ -15,7 +15,7 @@
         <div class="head-font tab"><a href="#bmv-top">TOP</a></div>
         <div class="toplink-box" id="bmv-top"></div>
 
-        <!-- ==== CONTENT BOX ==== -->
+        <!-- ==== CONTENT HEADER ==== -->
         <main class="content-box">
             <div class="content-blurb">
                 <div class="content-blurb-head flex flex-end flex-bet">
@@ -31,14 +31,17 @@
 
             <!-- ==== CONTENT IN PARTIALS ==== -->
             <div class="content-arti-lock">
-                <div class="content-arti-section" id="bmv-1">
+                <div class="content-arti-section empty-scroll" id="bmv-1">
                     <?php include __DIR__ . '/../partials/design-partials/cs-bm/bmv-1.php'; ?>
                 </div>
-                <div class="content-arti-section" id="bmv-2">
+                <div class="content-arti-section empty-scroll" id="bmv-2">
                     <?php include __DIR__ . '/../partials/design-partials/cs-bm/bmv-2.php'; ?>
                 </div>
             </div>
             <?php include __DIR__ . '/../partials/design-partials/cs-bm/bm-add.php'; ?>
+
+            <!-- ==== BACK TO ==== -->
+            <?php include __DIR__ . '/../partials/design-backs/mogr-back.php'; ?>
         
         <!-- ==== FOOTER ==== -->
         <?php include __DIR__ . '/../partials/design-footer.php'; ?>

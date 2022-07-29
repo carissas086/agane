@@ -6,8 +6,8 @@
         <h2 class="head-font arti-head">SNEAKZ</h2>
         <div class="content-arti-clean flex">
             <div class="content-arti-copy">
-                <p>"SNEAKZ" is a fictional sports shoe company made for purposes of an assignment for a Photoshop in New Media class as part of BCIT's New Media program. The assignment revolved around Photoshop's now unsupported 3D capabilities. The original project, including logo and business card design, was completed over the course of 3 weeks in 2021.</p>
-                <p>This variation of the project took assets created for the original render, and re-rendering them in Adobe Dimension a year later in 2022.</p>
+                <p>"SNEAKZ" is a fictional sports shoe company made for purposes of an assignment for a Photoshop in New Media class as part of BCIT's New Media program. The assignment revolved around Photoshop's now unsupported 3D capabilities. The original project, including a logo and business card design.</p>
+                <p>This variation of the project took assets created for the original render, and re-rendering them in Adobe Dimension.</p>
             </div>
         </div>
     </div>

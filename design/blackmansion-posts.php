@@ -15,7 +15,7 @@
         <div class="head-font tab"><a href="#bm-top">TOP</a></div>
         <div class="toplink-box" id="bm-top"></div>
 
-        <!-- ==== CONTENT BOX ==== -->
+        <!-- ==== CONTENT HEADER ==== -->
         <main class="content-box">
             <div class="content-blurb">
                 <div class="content-blurb-head flex flex-end flex-bet">
@@ -34,17 +34,22 @@
 
             <!-- ==== CONTENT IN PARTIALS ==== -->
             <div class="content-arti-lock">
-                <div class="content-arti-section" id="bm-1">
+                <div class="content-arti-section empty-scroll" id="bm-1">
                     <?php include __DIR__ . '/../partials/design-partials/cs-bm/bm-1.php'; ?>
                 </div>
-                <div class="content-arti-section" id="bm-2">
+                <div class="content-arti-section empty-scroll" id="bm-2">
                     <?php include __DIR__ . '/../partials/design-partials/cs-bm/bm-2.php'; ?>
                 </div>
-                <div class="content-arti-section" id="bm-3">
+                <div class="content-arti-section empty-scroll" id="bm-3">
                     <?php include __DIR__ . '/../partials/design-partials/cs-bm/bm-3.php'; ?>
                 </div>
             </div>
+
+            <!-- ==== ADD CONTENT ==== -->
             <?php include __DIR__ . '/../partials/design-partials/cs-bm/bm-add.php'; ?>
+
+            <!-- ==== BACK TO ==== -->
+            <?php include __DIR__ . '/../partials/design-backs/web-back.php'; ?>
         
         <!-- ==== FOOTER ==== -->
         <?php include __DIR__ . '/../partials/design-footer.php'; ?>

@@ -1,8 +1,8 @@
-<div class="empty"></div>
+
 <h2 class="head-font arti-head">Motion Graphics Teaser</h2>
 <div class="content-arti-clean flex flex-around flex-end video-box">
     <video controls volume="">
-        <source src="/../images/cs_bm-teaser.mp4" type="video/mp4">
+        <source src="../images/cs_bm-teaser.mp4" type="video/mp4">
         Your browser does not support the video tag :(
     </video>
 </div>

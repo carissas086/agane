@@ -6,7 +6,7 @@
         <h2 class="head-font arti-head">"Portrait" Composite Photograph Project</h2>
         <div class="content-arti-clean flex">
             <div class="content-arti-copy">
-                <p>This project was the final project for the Digital Photography course as part of BCIT's New Media Design program. The project took place over 3 months in 2021, with all images shot with a Fujifilm XT-3, and processed in <span class="bold">Adobe Photoshop</span>.</p>
+                <p>This project was the final project for the Digital Photography course as part of BCIT's New Media Design program. The photographs were shot with a Fujifilm XT-3, and processed in <span class="bold">Adobe Photoshop</span>.</p>
             </div>
         </div>
     </div>

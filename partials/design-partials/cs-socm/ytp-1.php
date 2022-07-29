@@ -1,4 +1,4 @@
-<div class="empty"></div>
+
 <h2 class="head-font arti-head">Halloween Instagram Posts</h2>
 <div class="content-arti-clean">
     <div class="content-arti-final framed flex flex-around flex-end">
@@ -17,7 +17,7 @@
 <div class="content-arti-clean flex flex-around flex-end">
     <div class="content-arti-copy">
         <p>As these posts would be posted to Instagram, I understood that most users would only be seeing the posts for a split second before deciding to stop or scroll through. As such, I wanted the posts to be simple, with a few large words to deliver the post message, and cute graphics to hopefully draw the eye.</p>
-        <p>Each post followed the same design process. I chose stock vector graphics relavent to the season and played around with their placement on the canvas, being careful to leave white space for the placement of text. Once that was decided, I put a simple message on each in large, bold text according to the branding that we had chosen for our project.</p>
+        <p>Each post followed the same design process. I chose stock vector graphics relevant to the season and played around with their placement on the canvas, being careful to leave white space for the placement of text. Once that was decided, I put a simple message on each in large, bold text according to the branding that we had chosen for our project.</p>
     </div>
 </div>
 <div class="showcase flex flex-bet flex-vertcen framed">

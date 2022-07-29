@@ -1,4 +1,4 @@
-<div class="empty"></div>
+
 <h2 class="head-font arti-head">Instagram Campaign Posts</h2><div class="content-arti-clean">
     <div class="content-arti-final framed flex flex-around flex-end">
         <a href="../images/cs_youthe-skin-1.jpg"

@@ -7,7 +7,6 @@
         <div class="content-arti-clean flex">
             <div class="content-arti-copy">
                 <p>"No Clowns Coffee Roasters" is a fictional company made for purposes of an assignment for a New Technologies in New Media class. The assignment revolved around creating assets for a 3D product mockup.</p>
-                <p>This project was completed within 2 weeks in 2022.</p>
             </div>
         </div>
     </div>

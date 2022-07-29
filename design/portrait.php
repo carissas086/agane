@@ -15,7 +15,7 @@
         <div class="head-font tab"><a href="#portrait-top">TOP</a></div>
         <div class="toplink-box" id="portrait-top"></div>
 
-        <!-- ==== CONTENT BOX ==== -->
+        <!-- ==== CONTENT HEADER ==== -->
         <main class="content-box">
             <div class="content-blurb">
                 <div class="content-blurb-head flex flex-end flex-bet">
@@ -31,11 +31,14 @@
 
             <!-- ==== CONTENT IN PARTIALS ==== -->
             <div class="content-arti-lock">
-                <div class="content-arti-section" id="misc-1">
+                <div class="content-arti-section empty-scroll" id="misc-1">
                     <?php include __DIR__ . '/../partials/design-partials/cs-misc/misc-1.php'; ?>
                 </div>
             </div>
             <?php include __DIR__ . '/../partials/design-partials/cs-misc/portrait-add.php'; ?>
+
+            <!-- ==== BACK TO ==== -->
+            <?php include __DIR__ . '/../partials/design-backs/misc-back.php'; ?>
         
         <!-- ==== FOOTER ==== -->
         <?php include __DIR__ . '/../partials/design-footer.php'; ?>
