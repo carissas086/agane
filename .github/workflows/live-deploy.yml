@@ -1,2 +1,0 @@
-- name: Simple FTP deploy
-  uses: kevinpainchaud/simple-ftp-deploy-action@v1.2.1
