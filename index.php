@@ -73,7 +73,7 @@
         <div class="socials">
             <ul class="flex">
                 <li><a href="mailto:carissaso@gmail.com" title="Contact me at carissaso@gmail.com"><img src="images/socials/email-icon.png" alt="Contact me at carissaso@gmail.com"></a></li>
-                <li><a href="https://instagram.com/carissaso" target="_blank" title="Instagram Profile"><img src="images/socials/instagram-logo.png" alt="Instagram Logo"></a></li>
+                <li><a href="https://instagram.com/carissamakesthings" target="_blank" title="Instagram Profile"><img src="images/socials/instagram-logo.png" alt="Instagram Logo"></a></li>
                 <li><a href="https://ca.linkedin.com/in/carissaso" target="_blank" title="LinkedIn Profile"><img src="images/socials/linkedin-logo.png" alt="LinkedIn Logo"></a></li>
             </ul>
         </div>
