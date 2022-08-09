@@ -56,7 +56,7 @@
                             <li class="bullet-sub">After Effects</li>
                         <li>DaVinci Resolve</li>
                         <li>Ableton Live</li>
-                        <li>basic HTML, CSS. Javascript, and WordPress Development</li>
+                        <li>basic HTML, CSS, Javascript, and WordPress Development</li>
                     </ul>
                     <p class="about-subhead">Past (and current) interests and projects:</p>
                     <ul class="li-indent bullets">
