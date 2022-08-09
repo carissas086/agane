@@ -105,7 +105,7 @@
 <div class="content-arti-clean flex flex-around flex-end framed">
     <a href="../images/cs_portrait-final.jpg"
         data-lightbox="misc-1"
-        data-title="Second edit of the composite with initial lighting and fog edits." >
+        data-title="Final edit of the composite with initial lighting and fog edits." >
             <img src="../images/cs_portrait-final.jpg" alt="Boy reaching out of monitor, with boy playing a mobile game, and boy looking at a video of himself nearby">
     </a>
 </div>

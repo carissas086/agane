@@ -29,11 +29,11 @@
         <!-- ==== GALLERY ==== -->
         <section class="landing-gal head-font empty-scroll" id="gallery">
             <h2 class="head-font">My Work</h2>
-            <?php include __DIR__ . '/partials/gallery-partials/printproduct.php'; ?>
-            <?php include __DIR__ . '/partials/gallery-partials/webmarketing.php'; ?>
-            <?php include __DIR__ . '/partials/gallery-partials/branding.php'; ?>
             <?php include __DIR__ . '/partials/gallery-partials/creativemisc.php'; ?>
+            <?php include __DIR__ . '/partials/gallery-partials/webmarketing.php'; ?>
             <?php include __DIR__ . '/partials/gallery-partials/motiongraphics.php'; ?>
+            <?php include __DIR__ . '/partials/gallery-partials/printproduct.php'; ?>
+            <?php include __DIR__ . '/partials/gallery-partials/branding.php'; ?>
         </section>
 
         <!-- ==== ABOUT ==== -->
@@ -56,7 +56,7 @@
                             <li class="bullet-sub">After Effects</li>
                         <li>DaVinci Resolve</li>
                         <li>Ableton Live</li>
-                        <li>basic HTML and CSS</li>
+                        <li>basic HTML, CSS, Javascript, and WordPress Development</li>
                     </ul>
                     <p class="about-subhead">Past (and current) interests and projects:</p>
                     <ul class="li-indent bullets">
