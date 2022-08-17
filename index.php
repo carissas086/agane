@@ -60,9 +60,9 @@
                     </ul>
                     <p class="about-subhead">Past (and current) interests and projects:</p>
                     <ul class="li-indent bullets">
-                        <li>Electric guitar, recreationally and at the collegiate level (jazz and contemporary program)</li>
+                        <li>Electric guitar, recreationally and at the collegiate level (jazz and contemporary music program)</li>
                         <li>Majored in Linguistics, Bachelor of Arts from Simon Fraser University</li>
-                        <li>creative lead on a multi-medium narrative project</li>
+                        <li>creative lead on a multi-medium narrative projects</li>
                         <li>creative writing, recreationally and self-published</li>
                     </ul>
                 </div>
