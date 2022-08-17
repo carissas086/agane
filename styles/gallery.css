@@ -22,6 +22,7 @@
 /* ==== WEB MARKETING ==== */
     #gal-origins {
         background-image: url(../images/cs_mb-origins-banner.jpg);
+        background-position: center;
     }
 
     #gal-extralife {

@@ -174,8 +174,7 @@
         .bullets {
             list-style: disc;
             padding-bottom: 1.25vh;
-            line-height: 1.75;
-        }
+            line-height: 1.75;       
 
         .bullets li {
             padding-left: .5rem;

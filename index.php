@@ -29,11 +29,11 @@
         <!-- ==== GALLERY ==== -->
         <section class="landing-gal head-font empty-scroll" id="gallery">
             <h2 class="head-font">My Work</h2>
-            <?php include __DIR__ . '/partials/gallery-partials/creativemisc.php'; ?>
-            <?php include __DIR__ . '/partials/gallery-partials/webmarketing.php'; ?>
-            <?php include __DIR__ . '/partials/gallery-partials/motiongraphics.php'; ?>
+            <?php // include __DIR__ . '/partials/gallery-partials/webmarketing.php'; ?>
+            <?php // include __DIR__ . '/partials/gallery-partials/motiongraphics.php'; ?>
             <?php include __DIR__ . '/partials/gallery-partials/printproduct.php'; ?>
             <?php include __DIR__ . '/partials/gallery-partials/branding.php'; ?>
+            <?php include __DIR__ . '/partials/gallery-partials/creativemisc.php'; ?>
         </section>
 
         <!-- ==== ABOUT ==== -->
