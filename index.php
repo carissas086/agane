@@ -3,7 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>carissaso &mdash; creativity through design</title>
+    <title>carissas &mdash; creativity through design</title>
+    
+<!--    last updated: 220810    -->
 
     <?php include __DIR__ . '/partials/headlinks.php'; ?>
     
