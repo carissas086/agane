@@ -827,3 +827,20 @@
             padding: 1vh 2vw;
             margin: 0 auto;
         }
+
+    /* ==== ALL GALLERY ====*/
+
+        #all-gallery {
+            margin-top: 20vh;
+        }
+
+
+/* ==== CLEARS & BUTTONS ==== */
+
+    .x-auto {
+        margin: 0 auto;
+    }
+
+    .base-btn {
+        margin-top: 5vh;
+    }

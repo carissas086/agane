@@ -14,6 +14,11 @@
             <p class="head-font gal-hov">"Ace of Hearts" &mdash; Illustration</p>
             <div class="gal-img" id="gal-ace"></div>
         </a>
+        <a href="images/cs_ace-process.gif"
+            data-lightbox="misc"
+            data-title="Process GIF of a personal project illustration that I did on my off time. This features a man who has taken his heart out to give to the one he loves."
+            style="display:none;">
+        </a>
         <!-- <a class="gal-link col-12 col-md-3" hre="/design/aceofhearts.php#misc-2">
             <p class="head-font gal-hov">"Ace of Hearts" &mdash; Illustration</p>
             <div class="gal-img" id="gal-ace"></div>
@@ -23,6 +28,11 @@
             data-title="Vector drawing inspired by 'Monument Valley', and all the various hobbies I have. Done in Adobe Illustrator." >
             <p class="head-font gal-hov">"Interest" &mdash; Vector Illustration</p>
             <div class="gal-img" id="gal-interest"></div>
+        </a>
+        <a href="images/cs_interest-process.gif"
+            data-lightbox="misc"
+            data-title="Process GIF of the vector illustration project I created in ADobe Illustrator. This features the building of a tower in the style of monument valley, and features several little red creatures engaging  in hobbies and interests of mine."
+            style="display:none;">
         </a>
         <!-- <a class="gal-link col-12 col-md-3" hre="/design/vectorillustrations.php#vc-1">
             <p class="head-font gal-hov">"Interest" &mdash; Vector Illustration</p>
@@ -57,6 +67,11 @@
             data-title="Completely 2D vectorised drawing of an effects pedal. Done in Adobe Illustrator." >
             <p class="head-font gal-hov">"Shift" &mdash; Effects Pedal Vector Illustration</p>
             <div class="gal-img" id="gal-shift"></div>
+        </a>
+        <a href="images/cs_shift-process.gif"
+            data-lightbox="misc"
+            data-title="Process GIF of the effects pedal I recreated completely using vectors in Adobe Illustrator. This was accomplished by creating vector shapes, and using simple colours and more complex gradient stroke and fill colours to recreate the desired knobs and switches."
+            style="display:none;">
         </a>
         <!-- <a class="gal-link col-12 col-md-4" hre="/design/shift.php#misc-7">
             <p class="head-font gal-hov">"Shift" &mdash; Effects Pedal Vector Illustration</p>
