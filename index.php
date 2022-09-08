@@ -34,6 +34,10 @@
             <?php include __DIR__ . '/partials/gallery-partials/printproduct.php'; ?>
             <?php include __DIR__ . '/partials/gallery-partials/branding.php'; ?>
             <?php include __DIR__ . '/partials/gallery-partials/creativemisc.php'; ?>
+
+            <div class="head-font flex">
+                <a class="design-back x-auto base-btn" href="gallery.php">more</a>
+            </div>
         </section>
 
         <!-- ==== ABOUT ==== -->
