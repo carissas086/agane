@@ -30,14 +30,45 @@
         <section class="landing-gal head-font empty-scroll" id="gallery">
             <h2 class="head-font">My Work</h2>
             <?php // include __DIR__ . '/partials/gallery-partials/webmarketing.php'; ?>
-            <?php // include __DIR__ . '/partials/gallery-partials/motiongraphics.php'; ?>
-            <?php include __DIR__ . '/partials/gallery-partials/printproduct.php'; ?>
-            <?php include __DIR__ . '/partials/gallery-partials/branding.php'; ?>
-            <?php include __DIR__ . '/partials/gallery-partials/creativemisc.php'; ?>
 
-            <div class="head-font flex">
-                <a class="design-back x-auto base-btn" href="gallery.php">more</a>
+            <div class="container-fluid gal-project empty-scroll" id="">
+                <div class="gal flex-vertcen row">
+                    <a class="gal-link col-12 col-md-6" href="design/techcollider.php">
+                        <p class="head-font gal-hov">Tech Collider &mdash; Corporate Marketing Assets</p>
+                        <div class="gal-img" id="gal-tc"></div>
+                    </a>
+                    <a class="gal-link col-12 col-md-6" href="design/fraserlandsgallery.php">
+                        <p class="head-font gal-hov">Fraser Lands Gallery &mdash; Layout &amp; Web Design</p>
+                        <div class="gal-img" id="gal-flg"></div>
+                    </a>
+                    <a class="gal-link col-12 col-md-6" href="design/sneakz.php">
+                        <p class="head-font gal-hov">SNEAKZ &mdash; Branding</p>
+                        <div class="gal-img" id="gal-snkz"></div>
+                    </a>
+                    <a class="gal-link col-12 col-md-6" href="design/shift.php">
+                        <p class="head-font gal-hov">'Shift' &mdash; Product Illustration</p>
+                        <div class="gal-img" id="gal-shft"></div>
+                    </a>
+                    <a class="gal-link col-12 col-md-6" href="design/portrait.php">
+                        <p class="head-font gal-hov">'Portrait' &mdash; Composite Photograph</p>
+                        <div class="gal-img" id="gal-port"></div>
+                    </a>
+                    <a class="gal-link col-12 col-md-6" href="design/interest.php">
+                        <p class="head-font gal-hov">'Interest' &mdash; Vector Illustration</p>
+                        <div class="gal-img" id="gal-inrs"></div>
+                    </a>
+                </div>
             </div>
+
+            <!--
+                > tech collider : photo renders, motion graphics
+                > fraserlands gallery : layout & graphpic design, web design (announcements, site, branding, coding)
+                2 sneakz : branding, 3d illustration graphics poster (redo entirely on the 3d side)
+                1 effects pedal product illustration : product/corporate vector illustration (make more specific poster for this maybe, or a instagram post, or like a presale kinda announcement... graphic..?)
+                > composite photo : creative/story driven photo manipulation
+                > interest vector illustration : vector illustration
+            -->
+
         </section>
 
         <!-- ==== ABOUT ==== -->
@@ -51,13 +82,23 @@
                 </div>
                 <div class="content-arti-copy">
                     <p>Being in continual pursuit of a curiosity in all the possibilities in media and art, my passion for precision and excellence permeates all my projects, both professional and personal.</p>
-                    <p class="about-subhead">Technical skills:</p>
+                    <p>
+                        <!-- more story, maybe through interests and such -->
+                    </p>
+
+                    <!-- 
+                        set values instead, and make icons maybe for it... make prettier... and then offset skill into a different page or something. annd be more specific, graphic design, layout, motion graphics, illustration, &c.
+                     -->
+
+                    
+                    <!-- <p class="about-subhead">Technical skills:</p>
                     <ul class="li-indent bullets">
                         <li>proficient in the Adobe Creative Suite, specifically</li>
                             <li class="bullet-sub">Photoshop</li>
                             <li class="bullet-sub">Illustrator</li>
                             <li class="bullet-sub">InDesign</li>
                             <li class="bullet-sub">After Effects</li>
+                        <li>Blender</li>
                         <li>DaVinci Resolve</li>
                         <li>Ableton Live</li>
                         <li>basic HTML, CSS, Javascript, and WordPress Development</li>
@@ -68,7 +109,8 @@
                         <li>Majored in Linguistics, Bachelor of Arts from Simon Fraser University</li>
                         <li>creative lead on a multi-medium narrative projects</li>
                         <li>creative writing, recreationally and self-published</li>
-                    </ul>
+                    </ul> -->
+
                 </div>
             </div>
         </section>
