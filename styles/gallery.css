@@ -8,19 +8,20 @@
     }
 
     #gal-snkz {
-        background-image: url(../images/cs_lrth-tin.jpg);
+        background-image: url(../images/cs_snkz-banner.jpg);
+        background-position: right;
     }
 
     #gal-port {
-        background-image: url(../images/cs_lrth-tin.jpg);
+        background-image: url(../images/cs_portrait-banner.jpg);
     }
 
     #gal-inrs {
-        background-image: url(../images/cs_lrth-tin.jpg);
+        background-image: url(../images/cs_interest-banner.jpg);
     }
 
     #gal-shft {
-        background-image: url(../images/cs_lrth-tin.jpg);
+        background-image: url(../images/cs_shift-banner.jpg);
     }
 
 
