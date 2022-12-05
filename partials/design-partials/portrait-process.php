@@ -2,7 +2,6 @@
 <div class="content-arti-clean flex flex-around flex-end flip">
     <div class="content-arti-copy">
         <p>After initial ideation and sketching, a photoshoot was done to get the elements that I needed for the project. This included shots of Joseph's workstation, his hand-build 40% mechanical keyboard, and effects board, as well as 3 individual shots of Joseph himself to composite into the photo.</p>
-        <p></p>
     </div>
 </div>
 <div class="content-arti-clean flex flex-around flex-end framed">

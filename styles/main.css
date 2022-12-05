@@ -15,8 +15,10 @@
     }
 
     img {
-        width: 100%;
+        max-width: 100%;
         max-height: 80vh;
+        width: auto;
+        height: auto;
     }
 
     .accent {
@@ -51,12 +53,20 @@
             flex-direction: column;
         }
 
+        .flex-center {
+            justify-content: center;
+        }
+
         .flex-around {
             justify-content: space-around;
         }
 
         .flex-bet {
             justify-content: space-between;
+        }
+
+        .flex-even {
+            justify-content: space-evenly;
         }
 
         .flex-vertcen {
@@ -464,7 +474,6 @@
             }
 
             .content-arti-final img {
-                width: 35vw;
                 max-width: 550px;
                 height: auto;
             }
@@ -826,6 +835,12 @@
             min-width: 275px;
             padding: 1vh 2vw;
             margin: 0 auto;
+        }
+
+    /* ==== SHIFT ==== */
+
+        .shift-img {
+            max-height: 350px;
         }
 
     /* ==== ALL GALLERY ====*/

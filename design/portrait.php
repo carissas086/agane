@@ -24,17 +24,15 @@
                         <h2 class="head-font">Composite Photograph</h2>
                     </div>
                 </div>
-                <div class="showcase flex flex-bet flex-vertcen">
+                <div class="showcase flex flex-vertcen flex-center">
                     <img src="../images/cs_portrait-final.jpg" alt="Composite photograph portrait of Joseph So">
                 </div>
             </div>
 
             <!-- ==== CONTENT IN PARTIALS ==== -->
             <div class="content-arti-lock">
-                <div class="content-arti-section empty-scroll" id="misc-1">
+                <div class="content-arti-section empty-scroll" id="portrait">
                     <?php include __DIR__ . '/../partials/design-partials/portrait-overview.php'; ?>
-                    <?php include __DIR__ . '/../partials/design-partials/portrait-process.php'; ?>
-                    <?php include __DIR__ . '/../partials/design-partials/portrait-post.php'; ?>
                     <?php include __DIR__ . '/../partials/design-partials/portrait-takeaway.php'; ?>
                 </div>
             </div>
