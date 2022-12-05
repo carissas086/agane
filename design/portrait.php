@@ -33,6 +33,7 @@
             <div class="content-arti-lock">
                 <div class="content-arti-section empty-scroll" id="portrait">
                     <?php include __DIR__ . '/../partials/design-partials/portrait-overview.php'; ?>
+                    <?php include __DIR__ . '/../partials/design-partials/portrait-process.php'; ?>
                     <?php include __DIR__ . '/../partials/design-partials/portrait-takeaway.php'; ?>
                 </div>
             </div>
