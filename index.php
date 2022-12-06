@@ -34,7 +34,7 @@
             <div class="container-fluid gal-project empty-scroll" id="">
                 <div class="gal flex-vertcen row">
                     <a class="gal-link col-12 col-md-6" href="design/techcollider.php">
-                        <p class="head-font gal-hov">Tech Collider &mdash; Corporate Marketing Assets</p>
+                        <p class="head-font gal-hov">Tech Collider &mdash; 3D & Motion Graphics</p>
                         <div class="gal-img" id="gal-tc"></div>
                     </a>
                     <a class="gal-link col-12 col-md-6" href="design/fraserlandsgallery.php">
@@ -54,7 +54,7 @@
                         <div class="gal-img" id="gal-port"></div>
                     </a>
                     <a class="gal-link col-12 col-md-6" href="design/interest.php">
-                        <p class="head-font gal-hov">'Interest' &mdash; Vector Illustration</p>
+                        <p class="head-font gal-hov">'Interest' &mdash; Illustration</p>
                         <div class="gal-img" id="gal-inrs"></div>
                     </a>
                 </div>

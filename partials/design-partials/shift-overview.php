@@ -17,15 +17,15 @@
     </div>
 </div>
 <div class="content-arti-clean flex flex-around flex-end">
-        <a href="../images/chase-bliss-audio_thermae.jpg"
-            data-lightbox="shift"
-            data-title="This is the product photo that I set out to recreate with this project. It is an effects pedal named 'Thermae' by Chase Bliss Audio." >
-            <img src="../images/chase-bliss-audio_thermae.jpg" alt="Thermae effects pedal by Chase Bliss Audio">
-        </a>
-        <a href="../images/cs_shift-outlines.jpg"
-            data-lightbox="shift"
-            data-title="These outlines show the vector shapes drawn in order to recreate the effects pedal. Gradients would then beb applied in layers in order to recreate the nuanced colours of the original photo." >
-            <img src="../images/cs_shift-outlines.jpg" alt="Vector illustration of an effects pedal (outlines only)">
-        </a>
-        <img src="../images/cs_shift-process.gif" alt="Process of creating the vector illustration of an effects pedal">
+    <a href="../images/chase-bliss-audio_thermae.jpg"
+        data-lightbox="shift"
+        data-title="This is the product photo that I set out to recreate with this project. It is an effects pedal named 'Thermae' by Chase Bliss Audio." >
+        <img src="../images/chase-bliss-audio_thermae.jpg" alt="Thermae effects pedal by Chase Bliss Audio">
+    </a>
+    <a href="../images/cs_shift-outlines.jpg"
+        data-lightbox="shift"
+        data-title="These outlines show the vector shapes drawn in order to recreate the effects pedal. Gradients would then beb applied in layers in order to recreate the nuanced colours of the original photo." >
+        <img src="../images/cs_shift-outlines.jpg" alt="Vector illustration of an effects pedal (outlines only)">
+    </a>
+    <img src="../images/cs_shift-process.gif" alt="Process of creating the vector illustration of an effects pedal">
 </div>

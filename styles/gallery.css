@@ -1,6 +1,8 @@
 /* ==== v2 Gal ==== */
+
+    /* DONE */
     #gal-tc {
-        background-image: url(../images/cs_lrth-tin.jpg);
+        background-image: url(../images/cs_bcittc-banner.jpg);
     }
     
     #gal-flg {
@@ -17,6 +19,7 @@
         background-image: url(../images/cs_portrait-banner.jpg);
     }
 
+    /* DONE */
     #gal-inrs {
         background-image: url(../images/cs_interest-banner.jpg);
     }
