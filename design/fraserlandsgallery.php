@@ -21,28 +21,27 @@
                 <div class="content-blurb-head flex flex-end flex-bet">
                     <div class="content-blurb-titles">
                         <h1 class="head-font">Fraser Lands Gallery</h1>
-                        <h2 class="head-font">Graphics &amp; Web Development</h2>
+                        <h2 class="head-font">Web Design &amp; Development</h2>
                     </div>
                 </div>
                 <div class="showcase flex flex-vertcen flex-center">
-                    <img src="../images/cs_portrait-final.jpg" alt="Composite photograph portrait of Joseph So">
+                    <img src="../images/cs_flg-sitebanner.jpg" alt="Fraser Lands Gallery website screen captures">
+                </div>
+                <div class="head-font flex">
+                    <a class="design-back base-btn" href="https://fraserlandsgallery.com" title="Visit the Fraser Lands Gallery site live" target="_blank">View Site</a>
+                    <a class="design-back base-btn" href="https://github.com/carissas086/flg.git" title="View Fraser Lands Gallery site code on Github" target="_blank">View Code</a>
                 </div>
             </div>
 
             <!-- ==== CONTENT IN PARTIALS ==== -->
-            <div class="content-arti-lock">
+            <div class="content-arti-lock" style="padding-bottom:0;">
                 <div class="content-arti-section empty-scroll" id="flg">
                     <?php include __DIR__ . '/../partials/design-partials/flg-overview.php'; ?>
-                    <?php include __DIR__ . '/../partials/design-partials/flg-graphics.php'; ?>
-                    <?php include __DIR__ . '/../partials/design-partials/flg-site.php'; ?>
                     <?php include __DIR__ . '/../partials/design-partials/flg-takeaway.php'; ?>
                 </div>
             </div>
 
             <!-- ==== CONTENT END ==== -->
-            <div class="showcase flex flex-bet flex-vertcen">
-                <img src="../images/cs_flg-banner.jpg" alt="3D mockup of a composite photograph">
-            </div>
             <div class="head-font flex">
                 <a class="design-back" href="../index.php#gallery">Back to Projects</a>
             </div>

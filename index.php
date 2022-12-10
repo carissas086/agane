@@ -37,17 +37,17 @@
                         <p class="head-font gal-hov">Tech Collider &mdash; 3D & Motion Graphics</p>
                         <div class="gal-img" id="gal-tc"></div>
                     </a>
-                    <a class="gal-link col-12 col-md-6" href="design/fraserlandsgallery.php">
-                        <p class="head-font gal-hov">Fraser Lands Gallery &mdash; Layout &amp; Web Design</p>
-                        <div class="gal-img" id="gal-flg"></div>
-                    </a>
                     <a class="gal-link col-12 col-md-6" href="design/sneakz.php">
-                        <p class="head-font gal-hov">SNEAKZ &mdash; Branding</p>
+                        <p class="head-font gal-hov">SNEAKZ &mdash; Branding &amp; Packaging Design</p>
                         <div class="gal-img" id="gal-snkz"></div>
                     </a>
                     <a class="gal-link col-12 col-md-6" href="design/shift.php">
                         <p class="head-font gal-hov">'Shift' &mdash; Product Illustration</p>
                         <div class="gal-img" id="gal-shft"></div>
+                    </a>
+                    <a class="gal-link col-12 col-md-6" href="design/fraserlandsgallery.php">
+                        <p class="head-font gal-hov">Fraser Lands Gallery &mdash; Site Design &amp; Development</p>
+                        <div class="gal-img" id="gal-flg"></div>
                     </a>
                     <a class="gal-link col-12 col-md-6" href="design/portrait.php">
                         <p class="head-font gal-hov">'Portrait' &mdash; Composite Photograph</p>

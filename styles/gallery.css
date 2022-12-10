@@ -5,8 +5,10 @@
         background-image: url(../images/cs_bcittc-banner.jpg);
     }
     
+    /* DONE */
     #gal-flg {
-        background-image: url(../images/cs_lrth-tin.jpg);
+        background-image: url(../images/cs_flg-sitebanner.jpg);
+        background-position: right;
     }
 
     #gal-snkz {

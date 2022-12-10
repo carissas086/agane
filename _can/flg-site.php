@@ -1,11 +1,7 @@
 <h2 class="head-font arti-head">Website Design</h2>
 <div class="content-arti-clean flex flex-around flex-end">
     <div class="content-arti-final framed">
-        <a href="../images/cs_portrait-sketch.jpg"
-            data-lightbox="flg"
-            data-title="Initial sketch done in Photoshop of the composite photo I wanted to make. I chose to sketch in white on black in order to indicate to the subject, and as a guide to how I wanted to shoot the photos, how light would work in the piece." >
-                <img src="../images/cs_portrait-sketch.jpg" alt="black and white sketch of composite photograph">
-        </a>
+        <img src="../images/cs_flg-site.jpg" alt="black and white sketch of composite photograph"  style="border:none;">
     </div>
     <div class="content-arti-copy">
         <p>The site was designed to serve 2 functions:</p>
