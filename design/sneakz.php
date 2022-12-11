@@ -25,7 +25,7 @@
                     </div>
                 </div>
                 <div class="showcase flex flex-vertcen flex-center">
-                    <img src="../images/cs_portrait-final.jpg" alt="Composite photograph portrait of Joseph So">
+                    <img src="../images/cs_snkz-render.jpg" alt="Final 3D mockup of a SNEAKZ shoebox">
                 </div>
             </div>
 
@@ -41,7 +41,7 @@
 
             <!-- ==== CONTENT END ==== -->
             <div class="showcase flex flex-bet flex-vertcen">
-                <img src="../images/cs_snkz-banner.jpg" alt="3D mockup of a SNKZ shoebox">
+                <img src="../images/cs_snkz-banner.jpg" alt="3D mockup of a SNEAKZ shoebox">
             </div>
             <div class="head-font flex">
                 <a class="design-back" href="../index.php#gallery">Back to Projects</a>
