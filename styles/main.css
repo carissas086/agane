@@ -455,9 +455,6 @@
 
         /* ==== CONTENT CARDS ==== */
 
-            .content-arti-lock {
-                padding-bottom: 8vh;
-            }
             .content-arti-section {
                 padding: 0;
                 max-width: 100%;
@@ -481,6 +478,7 @@
             .framed img {
                 border: 7px solid #fcfcfc;
                 box-shadow: -5px 5px 15px -5px rgba(15,15,15,0.86);
+                margin-bottom: 1.15vh;
             }
 
             .mb-small img {

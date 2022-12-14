@@ -34,11 +34,9 @@
             </div>
 
             <!-- ==== CONTENT IN PARTIALS ==== -->
-            <div class="content-arti-lock" style="padding-bottom:0;">
-                <div class="content-arti-section empty-scroll" id="flg">
-                    <?php include __DIR__ . '/../partials/design-partials/flg-overview.php'; ?>
-                    <?php include __DIR__ . '/../partials/design-partials/flg-takeaway.php'; ?>
-                </div>
+            <div class="content-arti-section empty-scroll" id="flg">
+                <?php include __DIR__ . '/../partials/design-partials/flg-overview.php'; ?>
+                <?php include __DIR__ . '/../partials/design-partials/flg-takeaway.php'; ?>
             </div>
 
             <!-- ==== CONTENT END ==== -->

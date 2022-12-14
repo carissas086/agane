@@ -60,15 +60,6 @@
                 </div>
             </div>
 
-            <!--
-                > tech collider : photo renders, motion graphics
-                > fraserlands gallery : layout & graphpic design, web design (announcements, site, branding, coding)
-                2 sneakz : branding, 3d illustration graphics poster (redo entirely on the 3d side)
-                1 effects pedal product illustration : product/corporate vector illustration (make more specific poster for this maybe, or a instagram post, or like a presale kinda announcement... graphic..?)
-                > composite photo : creative/story driven photo manipulation
-                > interest vector illustration : vector illustration
-            -->
-
         </section>
 
         <!-- ==== ABOUT ==== -->
@@ -81,19 +72,12 @@
                     <img src="images/carissaso.jpg" alt="">
                 </div>
                 <div class="content-arti-copy">
-                    <p>Being in continual pursuit of a curiosity in all the possibilities in media and art, my passion for precision and excellence permeates all my projects, both professional and personal.</p>
-                    <p>
-                        <!-- more story, maybe through interests and such -->
-                    </p>
-
-                    <!-- 
-                        set values instead, and make icons maybe for it... make prettier... and then offset skill into a different page or something. annd be more specific, graphic design, layout, motion graphics, illustration, &c.
-                     -->
-
-                    
-                    <!-- <p class="about-subhead">Technical skills:</p>
+                    <p>Being in continual pursuit of a curiosity in all the possibilities in media and art, my passion for precision and excellence permeates all my projects, both professional and personal. I am a creative designer who always seeks to pursue the best medium and method by which to tell every story I set out to tell.</p>
+                    <p>An endless curiosity and desire for understanding has led me to pursue a diverse range of interests. From every endeavour I have embarked on, I have learned valuable lessons that I bring with me to every new project: my education in jazz &amp; contemporary music taught me to embrace the phrase <span class="bold">&ldquo;the medium is the message&rdquo;</span>, my degree in Linguistics taught me to <span class="bold">scrutinise the details</span>, my hobbies in parkour and 3D illustration taught me to <span class="bold">love learning</span>, my multi-media narrative projects taught me to <span class="bold">serve the heart of each project first</span>, and my creative writing projects have taught me <span class="bold">patience and perseverance</span>. My work ethic is grounded in these core values.</p>
+                    <p>As I pursue new projects to bring these values to, I will endeavour to utilise my skills in <span class="bold">graphic design, 3D graphics, layout, motion graphics, web design</span> and <span class="bold">storytelling</span> to serve each and every project to the best of my abilities.</p>
+                    <p class="about-subhead">Technical skills:</p>
                     <ul class="li-indent bullets">
-                        <li>proficient in the Adobe Creative Suite, specifically</li>
+                        <li>proficient in the Adobe Creative Suite, most notably</li>
                             <li class="bullet-sub">Photoshop</li>
                             <li class="bullet-sub">Illustrator</li>
                             <li class="bullet-sub">InDesign</li>
@@ -101,16 +85,8 @@
                         <li>Blender</li>
                         <li>DaVinci Resolve</li>
                         <li>Ableton Live</li>
-                        <li>basic HTML, CSS, Javascript, and WordPress Development</li>
+                        <li>HTML, CSS, Javascript, and WordPress Development</li>
                     </ul>
-                    <p class="about-subhead">Past (and current) interests and projects:</p>
-                    <ul class="li-indent bullets">
-                        <li>Electric guitar, recreationally and at the collegiate level (jazz and contemporary music program)</li>
-                        <li>Majored in Linguistics, Bachelor of Arts from Simon Fraser University</li>
-                        <li>creative lead on a multi-medium narrative projects</li>
-                        <li>creative writing, recreationally and self-published</li>
-                    </ul> -->
-
                 </div>
             </div>
         </section>

@@ -30,13 +30,11 @@
             </div>
 
             <!-- ==== CONTENT IN PARTIALS ==== -->
-            <div class="content-arti-lock">
-                <div class="content-arti-section empty-scroll" id="snkz">
-                    <?php include __DIR__ . '/../partials/design-partials/snkz-overview.php'; ?>
-                    <?php include __DIR__ . '/../partials/design-partials/snkz-logo.php'; ?>
-                    <?php include __DIR__ . '/../partials/design-partials/snkz-packaging.php'; ?>
-                    <?php include __DIR__ . '/../partials/design-partials/snkz-takeaway.php'; ?>
-                </div>
+            <div class="content-arti-section empty-scroll" id="snkz">
+                <?php include __DIR__ . '/../partials/design-partials/snkz-overview.php'; ?>
+                <?php include __DIR__ . '/../partials/design-partials/snkz-logo.php'; ?>
+                <?php include __DIR__ . '/../partials/design-partials/snkz-packaging.php'; ?>
+                <?php include __DIR__ . '/../partials/design-partials/snkz-takeaway.php'; ?>
             </div>
 
             <!-- ==== CONTENT END ==== -->

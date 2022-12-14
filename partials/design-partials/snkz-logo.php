@@ -6,10 +6,14 @@
             data-title="Final logo designed the sports shoe company. I decided to go with a simple geometric design with a unique spin.">
                 <img src="../images/cs_snkz-logo.png" alt="SNEAKZ logo">
         </a>
+        <a href="../images/cs_snkz-lid.jpg"
+            data-lightbox="snkz"
+            data-title="The brand's colours and core shapes are showcased here. These colours and elements were utilised to build the core design for the shoebox.">
+                <img src="../images/cs_snkz-lid.jpg" alt="SNEAKZ colour palette and geometric shape elements">
+        </a>
     </div>
     <div class="content-arti-copy">
-        <p>
-            
-        After initial ideation and sketching, a photoshoot was done to get the elements that I needed for the project. This included shots of Joseph's workstation, his hand-build 40% mechanical keyboard, and effects board, as well as 3 individual shots of Joseph himself to composite into the photo.</p>
+        <p>I wanted to evoke a sense of familiarity with the logo design, leaning on strong geometric shapes largely drawn from the consonants in the brand's name 'SNKZ'. This was accented by a ball, formed with a circle sporting a simple curved line detail. This would speak to the brand's core product, and lift the logo upwards.</p>
+        <p>Branding was rounded out with 4 core colours: a bright turquoise, purple, and orange-yellow, and a darker blue-green for contrast. This palette was chosen to bring energy to the brand, and speak to the young demographic.</p>
     </div>
 </div>

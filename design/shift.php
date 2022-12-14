@@ -27,11 +27,9 @@
             </div>
 
             <!-- ==== CONTENT IN PARTIALS ==== -->
-            <div class="content-arti-lock">
-                <div class="content-arti-section empty-scroll" id="shift">
-                    <?php include __DIR__ . '/../partials/design-partials/shift-overview.php'; ?>
-                    <?php include __DIR__ . '/../partials/design-partials/shift-takeaway.php'; ?>
-                </div>
+            <div class="content-arti-section empty-scroll" id="shift">
+                <?php include __DIR__ . '/../partials/design-partials/shift-overview.php'; ?>
+                <?php include __DIR__ . '/../partials/design-partials/shift-takeaway.php'; ?>
             </div>
 
             <!-- ==== CONTENT END ==== -->

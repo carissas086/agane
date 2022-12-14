@@ -33,13 +33,11 @@
             </div>
 
             <!-- ==== CONTENT IN PARTIALS ==== -->
-            <div class="content-arti-lock">
-                <div class="content-arti-section empty-scroll" id="bcittc">
-                    <?php include __DIR__ . '/../partials/design-partials/bcittc-overview.php'; ?>
-                    <?php include __DIR__ . '/../partials/design-partials/bcittc-photos.php'; ?>
-                    <?php include __DIR__ . '/../partials/design-partials/bcittc-mogr.php'; ?>
-                    <?php include __DIR__ . '/../partials/design-partials/bcittc-takeaway.php'; ?>
-                </div>
+            <div class="content-arti-section empty-scroll" id="bcittc">
+                <?php include __DIR__ . '/../partials/design-partials/bcittc-overview.php'; ?>
+                <?php include __DIR__ . '/../partials/design-partials/bcittc-photos.php'; ?>
+                <?php include __DIR__ . '/../partials/design-partials/bcittc-mogr.php'; ?>
+                <?php include __DIR__ . '/../partials/design-partials/bcittc-takeaway.php'; ?>
             </div>
 
             <!-- ==== CONTENT END ==== -->

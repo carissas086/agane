@@ -41,11 +41,9 @@
             </div>
 
             <!-- ==== CONTENT IN PARTIALS ==== -->
-            <div class="content-arti-lock">
-                <div class="content-arti-section empty-scroll" id="interest">
-                    <?php include __DIR__ . '/../partials/design-partials/interest-overview.php'; ?>
-                    <?php include __DIR__ . '/../partials/design-partials/interest-takeaway.php'; ?>
-                </div>
+            <div class="content-arti-section empty-scroll" id="interest">
+                <?php include __DIR__ . '/../partials/design-partials/interest-overview.php'; ?>
+                <?php include __DIR__ . '/../partials/design-partials/interest-takeaway.php'; ?>
             </div>
 
             <!-- ==== CONTENT END ==== -->
