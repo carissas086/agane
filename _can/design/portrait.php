@@ -21,28 +21,24 @@
                 <div class="content-blurb-head flex flex-end flex-bet">
                     <div class="content-blurb-titles">
                         <h1 class="head-font">"Portrait"</h1>
-                        <h2 class="head-font">Composite Photograph</h2>
+                        <h2 class="head-font">Composite Photograph Project</h2>
                     </div>
                 </div>
-                <div class="showcase flex flex-vertcen flex-center">
-                    <img src="../images/cs_portrait-final.jpg" alt="Composite photograph portrait of Joseph So">
+                <div class="showcase flex flex-bet flex-vertcen">
+                    <img src="../images/cs_portrait-banner.jpg" alt="3D mockup of composite photograph">
                 </div>
             </div>
 
             <!-- ==== CONTENT IN PARTIALS ==== -->
-            <div class="content-arti-section empty-scroll" id="portrait">
-                <?php include __DIR__ . '/../partials/design-partials/portrait-overview.php'; ?>
-                <?php include __DIR__ . '/../partials/design-partials/portrait-process.php'; ?>
-                <?php include __DIR__ . '/../partials/design-partials/portrait-takeaway.php'; ?>
+            <div class="content-arti-lock">
+                <div class="content-arti-section empty-scroll" id="misc-1">
+                    <?php include __DIR__ . '/../partials/design-partials/cs-misc/misc-1.php'; ?>
+                </div>
             </div>
+            <?php include __DIR__ . '/../partials/design-partials/cs-misc/portrait-add.php'; ?>
 
-            <!-- ==== CONTENT END ==== -->
-            <div class="showcase flex flex-bet flex-vertcen">
-                <img src="../images/cs_portrait-banner.jpg" alt="3D mockup of a composite photograph">
-            </div>
-            <div class="head-font flex">
-                <a class="design-back" href="../index.php#gallery">Back to Projects</a>
-            </div>
+            <!-- ==== BACK TO ==== -->
+            <?php include __DIR__ . '/../partials/design-backs/misc-back.php'; ?>
         
         <!-- ==== FOOTER ==== -->
         <?php include __DIR__ . '/../partials/design-footer.php'; ?>

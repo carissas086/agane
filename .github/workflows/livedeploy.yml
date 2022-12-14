@@ -22,3 +22,4 @@ jobs:
             **/.git*/**
             README.md
             **/_hold/**
+            **/_can/**

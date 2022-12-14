@@ -1,167 +1,27 @@
-/* ==== PRINT ==== */
-    #gal-lrth {
-        background-image: url(../images/cs_lrth-tin.jpg);
-        background-position: center;
-    }
+/* ==== v2 Gal ==== */
 
-    #gal-nccr {
-        background-image: url(../images/cs_nccr-banner.jpg);
-        background-position: left;
+    #gal-tc {
+        background-image: url(../images/cs_bcittc-banner.jpg);
+    }
+    
+    #gal-flg {
+        background-image: url(../images/cs_flg-sitebanner.jpg);
+        background-position: right;
     }
 
     #gal-snkz {
         background-image: url(../images/cs_snkz-banner.jpg);
-        background-position: right bottom;
-    }
-
-    #gal-fvc {
-        background-image: url(../images/cs_fvc-banner.jpg);
-        background-position: left top;
-    }
-
-/* ==== WEB MARKETING ==== */
-    #gal-origins {
-        background-image: url(../images/cs_mb-origins-banner.jpg);
-        background-position: center;
-    }
-
-    #gal-extralife {
-        background-image: url(../images/cs_mb-extralife-banner.jpg);
-        background-position: center bottom;
-    }
-
-    #gal-bm-1 {
-        background-image: url(../images/cs_bm-post-library.jpg);
-        background-color: #fff;
-        background-position: center;
-        /* background-size: contain; */
-        background-size: cover;
-        background-repeat: no-repeat;
-    }
-
-    #gal-bm-2 {
-        background-image: url(../images/cs_bm-post-hall.jpg);
-        background-color: #fff;
-        background-position: center;
-        background-size: contain;
-        background-repeat: no-repeat;
-    }
-
-    #gal-bm-3 {
-        background-image: url(../images/cs_bm-post-field.jpg);
-        background-color: #fff;
-        background-position: center;
-        background-size: contain;
-        background-repeat: no-repeat;
-    }
-
-    #gal-ltc {
-        background-image: url(../images/cs_ltc-post.jpg);
-        background-color: #fff;
-        background-position: top;
-        background-size: cover;
-        background-repeat: no-repeat;
-    }
-
-    #gal-ytp-1 {
-        background-image: url(../images/cs_youthe-post-halloween.png);
-        background-color: #fff;
-        background-position: center;
-        background-size: contain;
-        background-repeat: no-repeat;
-    }
-
-    #gal-ytp-2 {
-        background-image: url(../images/cs_youthe-skin-2.jpg);
-        background-color: #fff;
-        background-position: center;
-        /* background-size: contain; */
-        background-size: cover;
-        background-repeat: no-repeat;
-    }
-
-    #gal-ytp-3 {
-        background-image: url(../images/cs_youthe-fb-mockup.jpg);
-        background-size: cover;
-    }
-
-/* ==== BRANDING ==== */
-    #gal-cmp {
-        background-image: url(../images/cs_cmp-banner.jpg);
-    }
-
-    #gal-pmsg {
-        background-image: url(../images/cs_pmsg-banner.jpg);
         background-position: right;
     }
 
-/* ==== MISC ==== */
-    #gal-portrait {
+    #gal-port {
         background-image: url(../images/cs_portrait-banner.jpg);
-        background-position: center;
     }
 
-    #gal-ace {
-        background-image: url(../images/cs_ace-banner.jpg);
-        background-position: center;
-    }
-    
-    #gal-interest {
+    #gal-inrs {
         background-image: url(../images/cs_interest-banner.jpg);
-        background-position: bottom center;
     }
 
-    #gal-aurie {
-        background-image: url(../images/cs_aurie-final.jpg);
-        background-color: #fff;
-        background-position: center;
-        background-size: contain;
-        background-repeat: no-repeat;
-    }
-    
-    /* #gal-ww-icons {
-        background-image: url(../images/cs_PMSG_logos_set3.jpg);
-    } */
-    
-    #gal-mtebibl {
-        background-image: url(../images/cs_mtebibl-map.png);
-        background-position: center;
-        background-size: 155%;
-        background-color: #fff;
-    }
-
-    #gal-shift {
+    #gal-shft {
         background-image: url(../images/cs_shift-banner.jpg);
-        background-position: right;
-    }
-
-    #gal-bigd {
-        background-image: url(../images/cs_bigd-jersey.jpg);
-        background-position: center;
-    }
-
-/* ==== MOTION GRAPHICS ==== */
-    #gal-bmv-1 {
-        background-image: url(../images/cs_bm-teaser-ss.jpg);
-        background-position: center;
-    }
-
-    #gal-bmv-2 {
-        background-image: url(../images/cs_bm-story-ss.jpg);
-        background-position: center;
-    }
-
-    #gal-ww-1 {
-        background-image: url(../images/cs_ww-bridge-ss.jpg);
-        background-position: right bottom;
-    }
-
-    #gal-ww-2 {
-        background-image: url(../images/cs_ww-loading-ss.jpg);
-        background-position: center;
-    }
-
-    #gal-ww-3 {
-        background-image: url(../images/cs_ww-numbers-ss.jpg);
-        background-position: right;
     }

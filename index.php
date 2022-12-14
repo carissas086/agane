@@ -30,14 +30,36 @@
         <section class="landing-gal head-font empty-scroll" id="gallery">
             <h2 class="head-font">My Work</h2>
             <?php // include __DIR__ . '/partials/gallery-partials/webmarketing.php'; ?>
-            <?php // include __DIR__ . '/partials/gallery-partials/motiongraphics.php'; ?>
-            <?php include __DIR__ . '/partials/gallery-partials/printproduct.php'; ?>
-            <?php include __DIR__ . '/partials/gallery-partials/branding.php'; ?>
-            <?php include __DIR__ . '/partials/gallery-partials/creativemisc.php'; ?>
 
-            <div class="head-font flex">
-                <a class="design-back x-auto base-btn" href="gallery.php">more</a>
+            <div class="container-fluid gal-project empty-scroll" id="">
+                <div class="gal flex-vertcen row">
+                    <a class="gal-link col-12 col-md-6" href="design/techcollider.php">
+                        <p class="head-font gal-hov">Tech Collider &mdash; 3D & Motion Graphics</p>
+                        <div class="gal-img" id="gal-tc"></div>
+                    </a>
+                    <a class="gal-link col-12 col-md-6" href="design/sneakz.php">
+                        <p class="head-font gal-hov">SNEAKZ &mdash; Branding &amp; Packaging Design</p>
+                        <div class="gal-img" id="gal-snkz"></div>
+                    </a>
+                    <a class="gal-link col-12 col-md-6" href="design/shift.php">
+                        <p class="head-font gal-hov">'Shift' &mdash; Product Illustration</p>
+                        <div class="gal-img" id="gal-shft"></div>
+                    </a>
+                    <a class="gal-link col-12 col-md-6" href="design/fraserlandsgallery.php">
+                        <p class="head-font gal-hov">Fraser Lands Gallery &mdash; Site Design &amp; Development</p>
+                        <div class="gal-img" id="gal-flg"></div>
+                    </a>
+                    <a class="gal-link col-12 col-md-6" href="design/portrait.php">
+                        <p class="head-font gal-hov">'Portrait' &mdash; Composite Photograph</p>
+                        <div class="gal-img" id="gal-port"></div>
+                    </a>
+                    <a class="gal-link col-12 col-md-6" href="design/interest.php">
+                        <p class="head-font gal-hov">'Interest' &mdash; Illustration</p>
+                        <div class="gal-img" id="gal-inrs"></div>
+                    </a>
+                </div>
             </div>
+
         </section>
 
         <!-- ==== ABOUT ==== -->
@@ -50,24 +72,20 @@
                     <img src="images/carissaso.jpg" alt="">
                 </div>
                 <div class="content-arti-copy">
-                    <p>Being in continual pursuit of a curiosity in all the possibilities in media and art, my passion for precision and excellence permeates all my projects, both professional and personal.</p>
+                    <p>Being in continual pursuit of a curiosity in all the possibilities in media and art, my passion for precision and excellence permeates all my projects, both professional and personal. I am a creative designer who always seeks to pursue the best medium and method by which to tell every story I set out to tell.</p>
+                    <p>An endless curiosity and desire for understanding has led me to pursue a diverse range of interests. From every endeavour I have embarked on, I have learned valuable lessons that I bring with me to every new project: my education in jazz &amp; contemporary music taught me to embrace the phrase <span class="bold">&ldquo;the medium is the message&rdquo;</span>, my degree in Linguistics taught me to <span class="bold">scrutinise the details</span>, my hobbies in parkour and 3D illustration taught me to <span class="bold">love learning</span>, my multi-media narrative projects taught me to <span class="bold">serve the heart of each project first</span>, and my creative writing projects have taught me <span class="bold">patience and perseverance</span>. My work ethic is grounded in these core values.</p>
+                    <p>As I pursue new projects to bring these values to, I will endeavour to utilise my skills in <span class="bold">graphic design, 3D graphics, layout, motion graphics, web design</span> and <span class="bold">storytelling</span> to serve each and every project to the best of my abilities.</p>
                     <p class="about-subhead">Technical skills:</p>
                     <ul class="li-indent bullets">
-                        <li>proficient in the Adobe Creative Suite, specifically</li>
+                        <li>proficient in the Adobe Creative Suite, most notably</li>
                             <li class="bullet-sub">Photoshop</li>
                             <li class="bullet-sub">Illustrator</li>
                             <li class="bullet-sub">InDesign</li>
                             <li class="bullet-sub">After Effects</li>
+                        <li>Blender</li>
                         <li>DaVinci Resolve</li>
                         <li>Ableton Live</li>
-                        <li>basic HTML, CSS, Javascript, and WordPress Development</li>
-                    </ul>
-                    <p class="about-subhead">Past (and current) interests and projects:</p>
-                    <ul class="li-indent bullets">
-                        <li>Electric guitar, recreationally and at the collegiate level (jazz and contemporary music program)</li>
-                        <li>Majored in Linguistics, Bachelor of Arts from Simon Fraser University</li>
-                        <li>creative lead on a multi-medium narrative projects</li>
-                        <li>creative writing, recreationally and self-published</li>
+                        <li>HTML, CSS, Javascript, and WordPress Development</li>
                     </ul>
                 </div>
             </div>

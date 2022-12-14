@@ -1,0 +1,7 @@
+<h2 class="head-font arti-head">Takeaways</h2>
+<div class="content-arti-clean flex flex-around flex-end">
+    <div class="content-arti-copy">
+        <p>My biggest takeaway from this project was one of <span class="bold">being adaptable</span>, and willing to pivot as the project needs change. This allowed me to remain productive throughout the duration of the project, and consistently work toward to broader project goals even while the exact nature of the required deliverables evolved.</p>
+        <p>All in all, my goal with this project (as with most others) was to create content that best serves the needs of the project. This underlying principle of mine pushed me to do extensive research, and spend the time necessary to create the effect that we wanted for the tory we were trying to tell. This was a tech space, and we wanted to have that identity consistently shown through all the assets we created. This experience has reinforced that <span class="bold">patience in creating assets that served the needs of the project</span>, rather than rushing through the design and production process, will always be the better decision, and ultimately enabled me to create assets that I can both be proud of and that would be well received by the project stakeholders.</p>
+    </div>
+</div>

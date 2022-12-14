@@ -3,7 +3,7 @@
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>carissas &mdash; 'Portrait'</title>
+        <title>carissas &mdash; 'Shift'</title>
 
         <?php include __DIR__ . '/../partials/design-headlinks.php'; ?>
 
@@ -12,33 +12,29 @@
         <?php include __DIR__ . '/../partials/design-header.php'; ?>
 
         <!-- ==== TOP LINK ==== -->
-        <div class="head-font tab"><a href="#portrait-top">TOP</a></div>
-        <div class="toplink-box" id="portrait-top"></div>
+        <div class="head-font tab"><a href="#shift-top">TOP</a></div>
+        <div class="toplink-box" id="shift-top"></div>
 
         <!-- ==== CONTENT HEADER ==== -->
         <main class="content-box">
             <div class="content-blurb">
                 <div class="content-blurb-head flex flex-end flex-bet">
                     <div class="content-blurb-titles">
-                        <h1 class="head-font">"Portrait"</h1>
-                        <h2 class="head-font">Composite Photograph</h2>
+                        <h1 class="head-font">"Shift"</h1>
+                        <h2 class="head-font">Product Illustration</h2>
                     </div>
-                </div>
-                <div class="showcase flex flex-vertcen flex-center">
-                    <img src="../images/cs_portrait-final.jpg" alt="Composite photograph portrait of Joseph So">
                 </div>
             </div>
 
             <!-- ==== CONTENT IN PARTIALS ==== -->
-            <div class="content-arti-section empty-scroll" id="portrait">
-                <?php include __DIR__ . '/../partials/design-partials/portrait-overview.php'; ?>
-                <?php include __DIR__ . '/../partials/design-partials/portrait-process.php'; ?>
-                <?php include __DIR__ . '/../partials/design-partials/portrait-takeaway.php'; ?>
+            <div class="content-arti-section empty-scroll" id="shift">
+                <?php include __DIR__ . '/../partials/design-partials/shift-overview.php'; ?>
+                <?php include __DIR__ . '/../partials/design-partials/shift-takeaway.php'; ?>
             </div>
 
             <!-- ==== CONTENT END ==== -->
             <div class="showcase flex flex-bet flex-vertcen">
-                <img src="../images/cs_portrait-banner.jpg" alt="3D mockup of a composite photograph">
+                <img src="../images/cs_shift-banner.jpg" alt="3D mockup of a composite photograph">
             </div>
             <div class="head-font flex">
                 <a class="design-back" href="../index.php#gallery">Back to Projects</a>
