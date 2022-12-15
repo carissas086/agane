@@ -1,4 +1,4 @@
-<h2 class="head-font arti-head">Promotional Video &mdash; Motion Graphics</h2>
+<h2 class="head-font arti-head">Process &mdash; Promotional Video Motion Graphics</h2>
 <div class="content-arti-clean flex flex-end">
     <div class="content-arti-copy">
         <p>My role within the video half of the project was primarily in the creation of motion graphics for the video. This was broadly broken up into 2 parts:</p>

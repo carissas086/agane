@@ -1,4 +1,4 @@
-<h2 class="head-font arti-head">Photo Package</h2>
+<h2 class="head-font arti-head">Process &mdash; Photo Package</h2>
 <div class="content-arti-clean flex flex-around flex-end">
     <div class="content-arti-final framed">
         <a href="../images/cs_bcittc-render2.jpg"

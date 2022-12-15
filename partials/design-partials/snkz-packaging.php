@@ -4,7 +4,7 @@
         <img src="../images/cs_snkz-animation.gif" alt="Short animation of a mocked-up SNEAKZ shoebox popping open on a basketball court">
     </div>
     <div class="content-arti-copy">
-        <p>The shoebox design is anchored in geometric shapes to echo the branding. The box itself features a ring of odd-shaped polygons, encircling the bottom of the box to give it energy and suggest movement. The box is accented by the design that runs around the edge of the lid. This enforces the boldness of the brand, utilising the strong contrast offered by the logo's geometric shapes organised on the dark blue-green background.</p>
+        <p>The shoebox design is anchored in geometric shapes that echo the branding. The box itself features a ring of odd-shaped polygons, encircling the bottom of the box to give it energy and suggest movement. The box is accented by the design that runs around the edge of the lid. This enforces the boldness of the brand, utilising the strong contrast offered by the logo's geometric shapes organised on the dark blue-green background.</p>
         <p>The design was mocked up on a simple shoebox modelled in Blender, and set in a basketball court with a simple animation as the foundation for marketing purposes.</p>
     </div>
 </div>
