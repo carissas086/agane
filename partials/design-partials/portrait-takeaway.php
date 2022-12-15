@@ -3,7 +3,7 @@
     <div class="content-arti-final framed">
         <a href="../images/cs_portrait-final.jpg"
             data-lightbox="portrait"
-            data-title="Final edit of the composite with initial lighting and fog edits." >
+            data-title="Final edit of the composite with lighting and fog edits." >
                 <img src="../images/cs_portrait-final.jpg" alt="Boy reaching out of monitor, with boy playing a mobile game, and boy looking at a video of himself nearby">
         </a>
     </div>
