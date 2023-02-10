@@ -25,3 +25,46 @@
     #gal-shft {
         background-image: url(../images/cs_shift-banner.jpg);
     }
+
+
+/* ==== Creative Gal ==== */
+
+    #gal-c1 {
+        background-image: url(../images/creative/cs_creat-nativity.jpg);
+        background-position: center;
+    }
+
+    #gal-c2 {
+        background-image: url(../images/creative/cs_creat-swordinstone.jpg);
+        background-position: center;
+    }
+
+    #gal-c3 {
+        background-image: url(../images/creative/cs_creat-family.png);
+        background-position: center;
+    }
+
+    #gal-c4 {
+        background-image: url(../images/creative/cs_creat-travel.png);
+        background-position: center;
+    }
+
+    #gal-c5 {
+        background-image: url(../images/creative/cs_creat-fairy.jpg);
+        background-position: center;
+    }
+
+    #gal-c6 {
+        background-image: url(../images/creative/cs_creat-tabla.png);
+        background-position: center;
+    }
+
+    #gal-c7 {
+        background-image: url(../images/creative/cs_creat-midicontroller.png);
+        background-position: center;
+    }
+
+    #gal-c8 {
+        background-image: url(../images/creative/cs_creat-turntable.png);
+        background-position: center;
+    }
