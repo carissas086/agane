@@ -28,7 +28,7 @@
 
         <!-- ==== GALLERY ==== -->
         <section class="landing-gal head-font empty-scroll" id="gallery">
-            <h2 class="head-font">My Work</h2>
+            <h2 class="head-font">Design Work</h2>
             <?php // include __DIR__ . '/partials/gallery-partials/webmarketing.php'; ?>
 
             <div class="container-fluid gal-project empty-scroll" id="">
@@ -49,13 +49,86 @@
                         <p class="head-font gal-hov">Fraser Lands Gallery &mdash; Site Design &amp; Development</p>
                         <div class="gal-img" id="gal-flg"></div>
                     </a>
-                    <a class="gal-link col-12 col-md-6" href="design/portrait.php">
+                </div>
+            </div>
+
+        </section>
+
+
+        <!-- ==== 3D Showcase ==== -->
+        <section class="landing-gal head-font empty-scroll" id="gallery">
+            <h2 class="head-font">Creative Work</h2>
+            <div class="container-fluid gal-project empty-scroll" id="">
+                <div class="gal flex-vertcen row">
+                    <a class="gal-link col-12 col-md-6"
+                        href="images/cs_portrait-final.jpg"
+                        data-lightbox="creat"
+                        data-title="This composite photograph portrays a portrait of Joseph So. The images were taken with a Fujifilm XT-3, and composited and post-processed in Adobe Photoshop.">
                         <p class="head-font gal-hov">'Portrait' &mdash; Composite Photograph</p>
                         <div class="gal-img" id="gal-port"></div>
                     </a>
-                    <a class="gal-link col-12 col-md-6" href="design/interest.php">
-                        <p class="head-font gal-hov">'Interest' &mdash; Illustration</p>
+                    <a class="gal-link col-12 col-md-6"
+                        href="images/cs_interest.jpg"
+                        data-lightbox="creat"
+                        data-title="This vector illustration depicts a small red character engaging in various interests and hobbies. The base illustration was done entirely in Adobe Illustrator, and further post-processed in Adobe Photoshop.">
+                        <p class="head-font gal-hov">'Interest' &mdash; Vector Illustration</p>
                         <div class="gal-img" id="gal-inrs"></div>
+                    </a>
+                    <a class="gal-link col-12 col-md-4"
+                        href="images/creative/cs_creat-nativity.jpg"
+                        data-lightbox="creat"
+                        data-title="This nativity scene was a collaborative project done with Eunhye Jang, entirely modelled, textured, and composited in Blender.">
+                        <p class="head-font gal-hov">Nativity Scene &mdash; 3D Illustration</p>
+                        <div class="gal-img" id="gal-c1"></div>
+                    </a>
+                    <a class="gal-link col-12 col-md-4"
+                        href="images/creative/cs_creat-swordinstone.jpg"
+                        data-lightbox="creat"
+                        data-title="A Sword in the Stone illustration done as part of a Model a Day Challenge. This illustration was modelled, textured, and composited in Blender.">
+                        <p class="head-font gal-hov">Sword in the Stone &mdash; 3D Illustration</p>
+                        <div class="gal-img" id="gal-c2"></div>
+                    </a>
+                    <a class="gal-link col-12 col-md-4"
+                        href="images/creative/cs_creat-family.png"
+                        data-lightbox="creat"
+                        data-title="Illustration of a family of clouds! This was done as part of a Model a Day Challenge, entirely modelled, textured, and composited in Blender.">
+                        <p class="head-font gal-hov">Family Time &mdash; 3D Illustration</p>
+                        <div class="gal-img" id="gal-c3"></div>
+                    </a>
+                    <a class="gal-link col-12 col-md-4"
+                        href="images/creative/cs_creat-travel.png"
+                        data-lightbox="creat"
+                        data-title="Illustration of a toy plane flying over the Pacific. This was done as a part of a Model a Day Challenge, entirely modelled, textured, and composited in Blender.">
+                        <p class="head-font gal-hov">Travel More &mdash; 3D Illustration</p>
+                        <div class="gal-img" id="gal-c4"></div>
+                    </a>
+                    <a class="gal-link col-12 col-md-4"
+                        href="images/creative/cs_creat-fairy.jpg"
+                        data-lightbox="creat"
+                        data-title="Model of a fairy puppet, done as a part of a Model a Day Challenge. This was entirely modelled, textured, and composited in Blender.">
+                        <p class="head-font gal-hov">Wooden Fairy &mdash; 3D Model</p>
+                        <div class="gal-img" id="gal-c5"></div>
+                    </a>
+                    <a class="gal-link col-12 col-md-4"
+                        href="images/creative/cs_creat-tabla.png"
+                        data-lightbox="creat"
+                        data-title="Simple model of tabla, done as a part of a Model a Day Challenge in Blender.">
+                        <p class="head-font gal-hov">Tabla &mdash; 3D Model</p>
+                        <div class="gal-img" id="gal-c6"></div>
+                    </a>
+                    <a class="gal-link col-12 col-md-4"
+                        href="images/creative/cs_creat-midicontroller.png"
+                        data-lightbox="creat"
+                        data-title="Simple model of a MIDI controller, done as a part of a Model a Day Challenge in Blender.">
+                        <p class="head-font gal-hov">MIDI Controller &mdash; 3D Model</p>
+                        <div class="gal-img" id="gal-c7"></div>
+                    </a>
+                    <a class="gal-link col-12 col-md-4"
+                        href="images/creative/cs_creat-turntable.png"
+                        data-lightbox="creat"
+                        data-title="Simple model of a little toy turntable, done as a part of a Model a Day Challenge in Blender.">
+                        <p class="head-font gal-hov">Turntable &mdash; 3D Model</p>
+                        <div class="gal-img" id="gal-c8"></div>
                     </a>
                 </div>
             </div>
