@@ -7,7 +7,7 @@
             <li><a href="https://ca.linkedin.com/in/carissaso" target="_blank" title="LinkedIn Profile"><img src="../images/socials/linkedin-logo.png" alt="LinkedIn Logo"></a></li>
         </ul>
     </div>
-    <p class="copyright">&copy; <span class="accent">2022</span> Carissa So</p>
+    <p class="copyright">&copy; <span class="accent">2023</span> Carissa So</p>
 </footer>
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js" ></script>
