@@ -57,13 +57,13 @@
             <h2 class="head-font">Web Design</h2>
             <div class="container-fluid gal-project empty-scroll" id="">
                 <div class="gal flex-vertcen row">
-                    <a class="gal-link col-12 col-md-6" href="design/pportfolio.php">
-                        <p class="head-font gal-hov">Personal Portfolio &mdash; Site Design &amp; Development</p>
-                        <div class="gal-img" id="gal-pport"></div>
-                    </a>
                     <a class="gal-link col-12 col-md-6" href="design/fraserlandsgallery.php">
                         <p class="head-font gal-hov">Fraser Lands Gallery &mdash; Site Design &amp; Development</p>
                         <div class="gal-img" id="gal-flg"></div>
+                    </a>
+                    <a class="gal-link col-12 col-md-6" href="design/pportfolio.php">
+                        <p class="head-font gal-hov">Personal Portfolio &mdash; Site Design &amp; Development</p>
+                        <div class="gal-img" id="gal-pport"></div>
                     </a>
                 </div>
             </div>

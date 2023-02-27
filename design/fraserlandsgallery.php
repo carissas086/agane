@@ -24,9 +24,15 @@
                         <h2 class="head-font">Web Design &amp; Development</h2>
                     </div>
                 </div>
-                <div class="showcase flex flex-vertcen flex-center">
-                    <img src="../images/cs_flg-sitebanner.jpg" alt="Fraser Lands Gallery website screen captures">
+                <div class="content-arti-clean flex flex-around flex-end video-box">
+                    <video muted autoplay loop>
+                        <source src="../images/cs_flg-galcss.mp4" type="video/mp4">
+                        Your browser does not support the video tag :(
+                    </video>
                 </div>
+                <!-- <div class="showcase flex flex-vertcen flex-center">
+                    <img src="../images/cs_flg-sitebanner.jpg" alt="Fraser Lands Gallery website screen captures">
+                </div> -->
                 <div class="head-font flex">
                     <a class="design-back base-btn" href="https://fraserlandsgallery.com" title="Visit the Fraser Lands Gallery site live" target="_blank">View Site</a>
                     <a class="design-back base-btn" href="https://github.com/carissas086/flg.git" title="View Fraser Lands Gallery site code on Github" target="_blank">View Code</a>
