@@ -25,7 +25,7 @@
                     </div>
                 </div>
                 <div class="content-arti-clean flex flex-around flex-end video-box">
-                    <video muted autoplay loop>
+                    <video muted autoplay loop poster="../images/cs_flg-poster.jpg">
                         <source src="../images/cs_flg-galcss.mp4" type="video/mp4">
                         Your browser does not support the video tag :(
                     </video>
