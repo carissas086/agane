@@ -3,11 +3,6 @@
     #gal-tc {
         background-image: url(../images/cs_bcittc-banner.jpg);
     }
-    
-    #gal-flg {
-        background-image: url(../images/cs_flg-sitebanner.jpg);
-        background-position: right;
-    }
 
     #gal-snkz {
         background-image: url(../images/cs_snkz-banner.jpg);
@@ -16,14 +11,30 @@
 
     #gal-port {
         background-image: url(../images/cs_portrait-banner.jpg);
+        background-position: center;
     }
 
     #gal-inrs {
         background-image: url(../images/cs_interest-banner.jpg);
+        background-position: center;
     }
 
     #gal-shft {
         background-image: url(../images/cs_shift-banner.jpg);
+        background-position: right;
+    }
+
+
+/* ==== Web Dev ==== */
+    
+    #gal-flg {
+        background-image: url(../images/cs_flg-sitebanner.jpg);
+        background-position: right;
+    }
+    
+    #gal-pport {
+        background-image: url(../images/cs_port.jpg);
+        background-position: center;
     }
 
 
@@ -66,5 +77,10 @@
 
     #gal-c8 {
         background-image: url(../images/creative/cs_creat-turntable.png);
+        background-position: center;
+    }
+
+    #gal-c9 {
+        background-image: url(../images/creative/cs_creat-tempt.jpg);
         background-position: center;
     }
